@@ -155,7 +155,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 
 **W**
 - [Waterfox](https://www.waterfox.net/) - is an open-source web browser that is forked from Firefox and developed by System1.
-- [Wave Browser](https://wavebrowser.co/) - efficient, intuitive and personal web browser.
+- [Wave Browser](https://wavebrowser.co/) **(considered malware/adware by many sources)** - efficient, intuitive and personal web browser.
 - [Wavebox Browser](https://wavebox.io/) - is a secure, private and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 - [Wexond Browser](https://github.com/wexond/browser-base) **[Archived]** - is a modern web browser, built on top of modern web technologies such as Electron and React, that can also be used as a framework to create a custom web browser.
 
