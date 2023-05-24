@@ -392,7 +392,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - based on NetSurf
 - [Vivaldi Browser](https://vivaldi.com/) - is a powerful, personal, and private web browser. It is packed with features – all built into the browser.
 	- **Engine** - Blink, V8
-	- **Operating System** - Windows, macOS, Linux, Android
+	- **Operating System** - Windows, macOS, Linux, Android, iOS (Experimental)
 
 **W**
 - [w3m](https://w3m.sourceforge.net/) - is a text-based web browser as well as a pager like `more` or `less`.
