@@ -29,8 +29,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** -
 - [Arc Browser](https://arc.net/) - revolutionary, user-centric browser with innovative features that can think as quickly as we do, take work off of our plates, and pull our creativity forward.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Blink, V8
+	- **Operating System** - MacOS, iOS
 - [Atom Browser](https://browser.ru/) - a new browser from Mail.ru based on Chromium with an emphasis on security and privacy.
 	- **Engine** -
 	- **Operating System** -
@@ -136,10 +136,10 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** -
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 	- [Firefox Browser Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - is the blazing fast browser that offers cutting edge developer tools and latest features...
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Gecko
+	- **Operating System** - Windows, MacOS, Linux, iOS, Android
 - [Floorp Browser](https://floorp.app/) - is a rapid release browser, like Firefox, in order to maximize security and privacy protection.
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
 - [Flow Browser](https://www.ekioh.com/flow-browser/) - is a web browser with a proprietary browser engine that claims to "dramatically improve rendering performance".
 	- **Engine** -
