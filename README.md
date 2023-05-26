@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 144)
+# Desktop Web Browsers (Currently: 171)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -28,6 +28,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Aloha Browser](https://alohabrowser.com/pc/) - is a fast, free, full-featured web browser that provides maximum privacy and security.
 	- **Engine** -
 	- **Operating System** -
+- [AMP Browser](https://ampbrowser.com/) - is an open source web browser, which accelerates web browsing by automatically loading AMP & MIP web pages, saves bandwidth by enabling data compression, and respects privacy by blocking ads and tracking scripts.
+	- **Engine** - Chromium
+	- **Operating System** - Windows, Ubuntu
 - [Arc Browser](https://arc.net/) - revolutionary, user-centric browser with innovative features that can think as quickly as we do, take work off of our plates, and pull our creativity forward.
 	- **Engine** - Blink, V8
 	- **Operating System** - MacOS, iOS
@@ -35,7 +38,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Goana, SpiderMonkey
 	- **Operating System** - Mac OS X 10.6+, Linux (PowerPC, x86, amd64, ARM, MIPS), NetBSD, OpenBSD, Windows XP
 - [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) - is a standalone application that is neither dependent nor affected by other web browsers.
-	- **Engine** - XXX
+	- **Engine** - Gecko
 	- **Operating System** - Windows
 - [Asobi](https://github.com/bdashore3/Asobi) - removes all of this clutter by giving you a WebView with a minimalist navigation bar (and swipe gestures). By doing these things, you can have a distraction free browsing experience.
 	- **Engine** - XXX
@@ -75,12 +78,21 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Blisk](https://blisk.io/) - is a freemium Chromium-based web browser that aims to improve productivity and code quality by providing a wide array of tools for Web development and testing for different type of devices: desktop, tablet and mobile.
 	- **Engine** -
 	- **Operating System** -
+- [Blue Hawk](https://tw3.gitlab.io/b/) - a web browser engineered for the modern web.
+	- **Engine** -
+	- **Operating System** - Windows
+- [BonBon Browser]() -  is a lightweight and innovative browser. It makes you appreciate your browsing experience, and offers privacy. We don’t collect any data. Since the project is still in its early stages, we appreciate any feedback that you can offer us.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Bonsai](https://bonsaibrowser.com/) **[Archived]** -  web-browser for research that helps programmers think clearly.
 	- **Engine** - XXX
 	- **Operating System** - macOS, Windows, Linux	
 - [Brave Browser](https://brave.com) - is a fast, private and secure web browser for PC, Mac and mobile.
 	- **Engine** - Blink, V8, (WebKit on iOS)
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
+- [BriskBard](https://www.briskbard.com/index.php?lang=en) -  is the new free web browser for windows that integrates everything you need to succeed in all your daily Internet tasks.
+	- **Engine** -
+	- **Operating System** -
 - [BrowserJet](https://browserjet.com/) - allows you to run multiple sessions with built-in multiple IPs in a single browser.
 	- **Engine** -
 	- **Operating System** -
@@ -95,6 +107,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Carbonyl](https://github.com/fathyb/carbonyl) - chromium running inside your terminal.
 	- **Engine** -
 	- **Operating System** -
+- [Catalyst](https://github.com/CatalystDevOrg/Catalyst) - an amazing and elegant ElectronJS web browser.
+	- **Engine** -
+	- **Operating System** - Windows, Linux, macOS
 - [Catsxp Browser](https://www.catsxp.com/) - is a chrome kernel enhanced browser aiming at simplicity and security.
 	- **Engine** -
 	- **Operating System** -
@@ -148,6 +163,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows, macOS, Linux, iOS Android
 
 **D**
+- [Dashob](https://dashob.com/) - a web browser that allow you to create limitless boards with web pages.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Decentr Browser](https://decentr.net/) - is an intuitive Web3 blockchain/metaverse browser and custom blockchain that securely stores user browsing data as part of a user's Decentr ID (DecID).
 	- **Engine** -
 	- **Operating System** -
@@ -164,7 +182,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** -
 - [Dot Browser](https://www.dothq.org/en-US) **[Coming Soon]** - a next-generation web browser with rugged privacy features out-of-the-box.
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
 - [DuckDuckGo Browser](https://duckduckgo.com/windows) - is a free browsing app that gives you comprehensive online privacy protection.
 	- **Engine** -
@@ -183,8 +201,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 
 **F**
 - [Falkon Browser](https://www.falkon.org/) - is a free and open-source web browser developed by KDE with QtWebEngine rendering engine.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - QtWebEngine
+	- **Operating System** - Windows, Linux
 - [FastBack](https://www.studiomee.com/fastback) - the browser that doesn't reload when you go back.
 	- **Engine** - XXX
 	- **Operating System** - macOS, iOS
@@ -212,19 +230,34 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Ghost Browser](https://ghostbrowser.com/) - is a web browser that is designed to help boost its users' productivity.
 	- **Engine** -
 	- **Operating System** -
+- [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) - blocks ads, trackers & other pop-ups and is fully loaded with a built-in private search engine that detects and displays trackers before you even visit a webpage.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux, Android, iOS
+- [Glow Browser](https://github.com/revblaze/Glow) - a light-weight web browser built for speed, performance and above all, beauty.
+	- **Engine** -
+	- **Operating System** - macOS, iOS
 - [Google Chrome](https://www.google.com/chrome/) - is a cross-platform web browser developed by Google.
 	- **Engine** -
 	- **Operating System** -
 - [GNU IceCat](https://www.gnu.org/software/gnuzilla/) - is the GNU version of the Mozilla suite, and GNU IceCat is the GNU version of the Firefox browser.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Gecko
+	- **Operating System** - Linux, Windows, macOS, Android
 
 **H**
 - [Hayami Browser](https://www.hayami.app/) - is a tile-based mini browser/dashboard app for your daily productivity.
 	- **Engine** -
 	- **Operating System** -
+- [Helium](https://slashlos.github.io/Helium/) - is a floating browser window that allows you to watch media, browse the web and do much more while you stay productive.
+	- **Engine** -
+	- **Operating System** - macOS
 
 **I**
+- [Impervious](https://www.impervious.ai/) - a suite of Peer-to-Peer tools for communications, data transport, and payments, built directly into the web browser.
+	- **Engine** -
+	- **Operating System** - Linux, Windows, macOS
+- [InterWeb](https://github.com/wicknix/InterWebSnow) - web browser, a close twin to Mozilla's Firefox and UXP's Basilisk. Based on Firefox-esr 52, Firefox-Legacy, and Basilisk code.
+	- **Engine** -
+	- **Operating System** - macOS
 - [Iridium Browser](https://iridiumbrowser.de/) - is an open modification of the Chromium code base, with privacy being enhanced in several key areas.
 	- **Engine** -
 	- **Operating System** -
@@ -235,29 +268,59 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** -
 
 **K**
+- [Kaktus](https://github.com/azer/kaktus) **[Archived]** - a new minimalistic web browser. It was formerly called "kaktüs", renamed to "fat home cat" later.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Kingpin Browser](https://kingpinbrowser.com/) - is full-featured browser with incognito mode and adblock always turned on. It does not remember the history, passwords, or cookies.
 	- **Engine** -
 	- **Operating System** -
+- [kristall](https://kristall.random-projects.net/) - is a browser without support for css/js/wasm or graphical websites. It can display user-styled documents in several formats, including gemini, html, markdown, … provided by a server via gemini, gopher, http, finger...
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux, BSD
 - [Konqueror](https://apps.kde.org/konqueror/) - is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
 	- **Engine** -
 	- **Operating System** -
 - [K-Meleon](http://kmeleonbrowser.org/) - is a lightweight, customizable, open-source web browser. It's designed for Microsoft Windows (Win32) operating systems.
-	- **Engine** -
+	- **Engine** - Goanna
 	- **Operating System** -
 
 **L**
+- [Ladybird](https://github.com/SerenityOS/serenity/tree/master/Ladybird) - is a web browser from SerenityOS with a cross-platform GUI in Qt.
+	- **Engine** - LibWeb, LibJS
+	- **Operating System** - SerenityOS
+- [Lagrange](https://github.com/skyjake/lagrange) - is a desktop GUI client for browsing Geminispace. It offers modern conveniences familiar from web browsers, such as smooth scrolling, inline image viewing, multiple tabs, visual themes, Unicode fonts, bookmarks, history, and page outlines.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS, Linux
+- [LeechCraft](https://leechcraft.org/) - modular live environment including web browser ([Poshuku](https://leechcraft.org/plugins-poshuku)), IM client, media player, BitTorrent client, document viewer, RSS reader and many other modules.
+	- **Engine** - WebKit, WebEngine
+	- **Operating System** - Windows, macOS, Linux, FreeBSD
 - [LibreWolf](https://librewolf.net/) - is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom.
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
+- [Light Browser](https://github.com/raphipod/LightBrowser-2020) **[Archived]** - One-Tab-Browsing for low memory usage; JS and WebGL-Support; based on Chrome
+	- **Engine** - CefSharp
+	- **Operating System** - Windows
 - [Links](http://links.twibright.com/) - is a free software text and graphical web browser with a pull-down menu system.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, OS/2, Unix-like, OpenVMS, DOS
+- [Liri Browser](https://github.com/lirios/browser) - cross-platform Material design web browser.
+	- **Engine** -
+	- **Operating System** -
+- [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) - is an extensible all-Java web browser and RIA platform.
+	- **Engine** -
+	- **Operating System** -
+- [Local Browser](https://chhekur.github.io/local-browser/) - share your localhost in a unique way.
+	- **Engine** -
+	- **Operating System** - Windows
 - [LT Browser](https://www.lambdatest.com/lt-browser) - is a highly intuitive web development program that lets you build, test, and debug how your website looks on a mobile view.
 	- **Engine** -
 	- **Operating System** -
 - [Luakit](https://luakit.github.io/) - is a highly configurable browser framework based on the WebKit web content engine and the GTK+ toolkit. It is very fast, extensible with Lua, and licensed under the GNU GPLv3 license.
 	- **Engine** - WebKit
 	- **Operating System** - Linux, BSD, Windows with WSL
+- [Lulumi-browser](https://github.com/LulumiProject/lulumi-browser) - is a lightweight browser coded with Vue.js 2 and Electron.
+	- **Engine** -
+	- **Operating System** -
 - [Lunascape Browser](https://www.lunascape.org/browser/phoebe) - is an original web browser that supports three different web engines.
 	- **Engine** -
 	- **Operating System** -
@@ -270,7 +333,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** -
 - [Mercury Browser](https://thorium.rocks/mercury) - the fastest Firefox fork for Linux and Windows named after Firefox's version control system, Mercurial, and the liquid element No. 80.
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) - is a proprietary, cross-platform web browser created by Microsoft.
 	- **Engine** -
@@ -278,25 +341,40 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Midori Browser](https://astian.org/midori-browser-desktop/) - a fast and secure light web browser by Astian.
 	- **Engine** -
 	- **Operating System** -
+- [MilkShake](https://milkshake.netlify.app/) - is a simple web browser with only one tab. There is an url bar and a home button. It is perfect if you open too many tabs and want to stop doing this.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Min Browser](https://minbrowser.org/) - a fast, minimal browser that protects your privacy.
 	- **Engine** -
 	- **Operating System** -
 - [Mullvad Browser](https://mullvad.net/en/browser) - is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
 - [Mypal Browser](https://www.mypal-browser.org/) - is a current and maintained browser for Windows XP. Turn that old PC into something useful!
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
 
 **N**
 - [Naver Whale Browser](https://whale.naver.com/en/) - is a Chromium-based web browser from the South Korean Internet giant Naver Corporation that fits lighter, more comfortable, and perfect for daily life.
 	- **Engine** - 	Blink, WebKit (iOS)
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
+- [Neriven](https://www.neriven.co.uk/) - smart browser, interactive & personalized easy automation between web app.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
 - [NetSurf](https://www.netsurf-browser.org/) - is an open-source web browser which uses its own layout engine. Its design goal is to be lightweight and portable.
-	- **Engine** - it's own built in from scratch
+	- **Engine** - own engine
 	- **Operating System** - RISC OS, AmigaOS 4, Windows; Linux/Unix-like, BeOS/Haiku, Atari TOS, macOS 3rd party ports: AmigaOS 3, Caanoo, MorphOS, Samsung TVs, Redox OS, Plan 9; KolibriOS port in development
-- [Nyxt browser](https://nyxt.atlas.engineer/) - is a keyboard-driven web browser designed for power users. Inspired by Emacs and Vim, it has familiar keybindings.
-	- **Engine** - XXX
+- [NetSurfer](https://www.netsurf-browser.org/) - an extremely fast and secure web browser to surf the internet with...
+	- **Engine** - Edge WebView2
+	- **Operating System** - Windows
+- [Ninetails](https://github.com/MystPi/ninetails) - a private, fast, and beautiful web browser.
+	- **Engine** - 
+	- **Operating System** - Windows, Linux, macOS
+- [nOS](https://nos.io/) - access the crypto-powered web.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS
+- [Nyxt browser](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm) - is a keyboard-driven web browser designed for power users. Inspired by Emacs and Vim, it has familiar keybindings.
+	- **Engine** - WebKit, QtWebEngine
 	- **Operating System** - Windows, macOS, Linux
 
 **O**
@@ -327,6 +405,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Pale Moon](https://www.palemoon.org/) - is an open-source web browser with an emphasis on customization; its motto is "Your browser, Your way".
 	- **Engine** - Goanna, SpiderMonkey
 	- **Operating System** - Windows, macOS, Linux, FreeBSD
+- [Pennywise](https://github.com/kamranahmedse/pennywise) - cross-platform application to open any website or media in a floating window.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) - an open-source browser made for privacy and going towards security.
 	- **Engine** - Chromium
 	- **Operating System** - Windows, macOS, Linux
@@ -381,7 +462,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Sidekick Browser](https://www.meetsidekick.com/) - is the best privacy browser with which you can focus, save time and feel safe.
 	- **Engine** - XXX
 	- **Operating System** - Windows, macOS, Linux
-- [Sielo Browser](https://sielo.app/en/index.html) - has all the functionalities of a traditional web browser, but that's not the end! No more tabs everywhere, browse differently by using tabs spaces!
+- [Sielo Browser](https://sielo.app/en/index.html) **[Archived]** - has all the functionalities of a traditional web browser, but that's not the end! No more tabs everywhere, browse differently by using tabs spaces!
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
 - [SigmaOS Browser](https://beta.sigmaos.com/) - two tabs at once. Split Screen makes multitasking really easy. You never to open more than one browser window again!
@@ -467,7 +548,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Waterfox](https://www.waterfox.net/) - is an open-source web browser that is forked from Firefox and developed by System1.
 	- **Engine** - Gecko, SpiderMonkey
 	- **Operating System** - Windows, macOS, Linux
-- [Wave Browser](https://wavebrowser.co/) *(considered as malware)* - efficient, intuitive and personal web browser.
+- [Wave Browser](https://wavebrowser.co/) - efficient, intuitive and personal web browser. *(Don't confuse with the Wave Browser from wavebrowser.com marked as malware)*
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS *(soon)*
 - [Wavebox Browser](https://wavebox.io/) - is a secure, private and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
@@ -490,7 +571,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 **Bonus**
 - [OneLaunch](https://onelaunch.com/) - the desktop integration that will upgrade your Windows 11 experience with all the features you’ve ever wanted and never had in your PC.
 
-**Credits to**
-- [norafroud](https://github.com/norafroud) - for sharing the huge list of browsers.
-- [CostcoFanboy](https://github.com/CostcoFanboy) - for contribution
-- [anuragrao04](https://github.com/anuragrao04) - for contribution
+**Credits for contribution to**
+- [norafroud](https://github.com/norafroud)
+- [CostcoFanboy](https://github.com/CostcoFanboy)
+- [anuragrao04](https://github.com/anuragrao04)
+- [niutech](https://github.com/niutech)
