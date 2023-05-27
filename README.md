@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 189)
+# Desktop Web Browsers (Currently: 190)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -369,6 +369,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - RISC OS, AmigaOS 4, Windows; Linux/Unix-like, BeOS/Haiku, Atari TOS, macOS 3rd party ports: AmigaOS 3, Caanoo, MorphOS, Samsung TVs, Redox OS, Plan 9; KolibriOS port in development
 - [NetSurfer](https://www.netsurf-browser.org/) - an extremely fast and secure web browser to surf the internet with...
 	- **Engine** - Edge WebView2
+	- **Operating System** - Windows
+- [Nexus Browser](https://github.com/makdosx/nexus-browser) - is a private browser.
+	- **Engine** -
 	- **Operating System** - Windows
 - [Ninetails](https://github.com/MystPi/ninetails) - a private, fast, and beautiful web browser.
 	- **Engine** -
