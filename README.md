@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 171)
+# Desktop Web Browsers (Currently: 189)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -104,6 +104,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Camino](https://caminobrowser.org/) **[Discontinued]** - is an open-source Web browser developed with a focus on providing the best possible experience for Mac OS X users.
 	- **Engine** - Gecko
 	- **Operating System** - macOS
+- [Carbon](https://carbon.website/) **[Coming Soon]** - is a free and open-source web browser developed by Carbon X Labs based on a custom fork of the Chromium web browser.
+	- **Engine** - Blink
+	- **Operating System** - Windows, macOS, iOS, Android 
 - [Carbonyl](https://github.com/fathyb/carbonyl) - chromium running inside your terminal.
 	- **Engine** -
 	- **Operating System** -
@@ -368,10 +371,10 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Edge WebView2
 	- **Operating System** - Windows
 - [Ninetails](https://github.com/MystPi/ninetails) - a private, fast, and beautiful web browser.
-	- **Engine** - 
+	- **Engine** -
 	- **Operating System** - Windows, Linux, macOS
 - [nOS](https://nos.io/) - access the crypto-powered web.
-	- **Engine** - 
+	- **Engine** -
 	- **Operating System** - Windows, macOS
 - [Nyxt browser](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm) - is a keyboard-driven web browser designed for power users. Inspired by Emacs and Vim, it has familiar keybindings.
 	- **Engine** - WebKit, QtWebEngine
@@ -428,6 +431,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows, macOS, Linux
 
 **Q**
+- [Qinghu Browser](https://www.xiaohu360.cn/) - a new generation browser for e-commerce.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
 - [QQ Browser](https://browser.qq.com/) - is a web browser developed by Mainland Chinese technology company Tencent.
 	- **Engine** - WebKit, Trident
 	- **Operating System** - Windows, macOS, Android, iOS
@@ -447,12 +453,24 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Safari](https://www.apple.com/am/safari/) - is the world's fastest browser with a blazing-fast JavaScript engine.
 	- **Engine** - WebKit, Nitro
 	- **Operating System** - macOS, iOS, iPadOS, Windows
+- [Sanbrowser](https://www.sanbrowser.com/) - is dual-core browser that integrates Chromium and IE kernel.Using Chromium 92 version and IE7-11 kernel.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
 - [Sandcat Browser](https://www.syhunt.com/sandcat/) - brings unique features that are useful for pen-testers and web developers.
 	- **Engine** - Edge WebView2/Chromium
 	- **Operating System** - Windows
+- [SeaLion](https://github.com/wicknix/SeaLion) - web browser for Mac OS X 10.7 - 12.6 and 32-bit PowerPC Linux.
+	- **Engine** -
+	- **Operating System** - macOS
 - [SeaMonkey Browser](https://www.seamonkey-project.org/) - is a free web browser that allows simplified browsing, along with better email, feed client and IRC chat management.
 	- **Engine** - 	Gecko, SpiderMonkey
 	- **Operating System** - Windows, macOS, Linux
+- [SEOBrowse](https://seobrowse.com/) - browse the search results for any location, instantly.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
+- [Seznam.cz](https://www.seznam.cz/prohlizec) - is a web browser made by czech search engine Seznam.cz. It is quick and safe browser for all users, but is not safe.
+	- **Engine** -
+	- **Operating System** - Windows, macOS. iOS, Android
 - [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - a full featured web-browser built using C# and CefSharp.
 	- **Engine** - CefSharp
 	- **Operating System** - Windows
@@ -471,6 +489,12 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Sizzy](https://sizzy.co/) - is for browsers what modern CI/CD is for deploying sites via FTP. Once you try Sizzy, you can never go back to using regular browsers for development.
 	- **Engine** - XXX
 	- **Operating System** - XXX
+- [Skye](https://github.com/skyebrowser/skye) - modern and feature-rich web browser.
+	- **Engine** -
+	- **Operating System** - Windows, Linux, macOS
+- [slashB](https://slashb.app/) - spend half the time designing and developing responsive websites by testing them on multiple screens at once.
+	- **Engine** -
+	- **Operating System** - Windows, Linux, macOS
 - [Sleipnir Browser](https://www.fenrir-inc.com/jp/sleipnir/) - is a tabbed web browser developed by Fenrir Inc. The browser's main features are customization and tab functions.
 	- **Engine** - Blink *(earlier Gecko)*
 	- **Operating System** - Windows, macOS, iOS, Android, Windows Phone
@@ -489,15 +513,24 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Split Browser](https://github.com/niutech/splitbrowser) -  is a minimalistic, ultra-lightweight, open source web browser for desktop, based on WebKit (provided by Playwright), Ultralight and a native webview, with split screen (tiled) view, made with Qt.
 	- **Engine** - WebKit, WebKitGTK, Edge WebView2
 	- **Operating System** - macOS, Linux, Windows
+- [Sputnik](https://github.com/LimePotato/Sputnik-Browser) - a lightweight approach to removing Google web service dependency.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux, FreeBSD
 - [SRWare Iron Browser](https://www.srware.net/iron/) - is a free internet browser designed to compete with the likes of Chrome and Edge which focusses on user security as its most important function.
 	- **Engine** - 	Blink, V8
 	- **Operating System** - Windows, macOS, Linux, Android
 - [Stack Browser](https://stackbrowser.com/) - is a spatial browser for mindful online living.
 	- **Engine** - XXX
 	- **Operating System** - Windows, macOS
+- [Station](https://getstation.com/) - is the first open-source smart browser for busy people. A single place for all of your web applications.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [surf](https://surf.suckless.org/) - is a minimalist web browser developed by suckless.org. The user interface of this browser does not include any graphical control elements; it is controlled via keyboard shortcuts or external tools, which may manipulate its behavior by setting its window's properties.
 	- **Engine** - WebKitGTK
 	- **Operating System** - Unix-like
+- [sushi-browser](https://sushib.me/) - next Generation Multi-Panel Browser designed specifically for online casino gaming with the help of professionals from Kaikki Kasinot.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Synth](https://synth.app/) - AI Driven Browser that makes you smarter at research and work.
 	- **Engine** - XXX
 	- **Operating System** - XXX
@@ -509,6 +542,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [The Classic Browser](https://theclassictools.com/) - uses the Chromium renderer to give you a faster, safer web browser by using its own interface and number-crunching routines.
 	- **Engine** - Chromium
 	- **Operating System** - Windows
+- [theWeb](https://github.com/vicr123/theweb) - is a web browser.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS, Linux
 - [Thorium Browser](https://thorium.rocks/) - the fastest chromium fork on Earth named after radioactive element No. 90.
 	- **Engine** - Blink
 	- **Operating System** - Linux, MacOS, Raspberry Pi, Windows
@@ -526,11 +562,20 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Ungoogled Chromium ](https://github.com/ungoogled-software/ungoogled-chromium) - is a free and open-source variant of the Chromium web browser that removes all Google-specific web services.
 	- **Engine** - Blink, V8
 	- **Operating System** - Windows, macOS, Linux, BSD, Android
+- [Unstoppable Blockchain Browser](https://github.com/unstoppabledomains/unstoppable-demo-browser) **[Archived]** - is a web browser that can browse the decentralized web.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
 - [UR Browser](https://www.ur-browser.com/en-US) - a fast and free web browser that respects user privacy. 100% European, with a built-in VPN and ad blocker.
 	- **Engine** - Blink
 	- **Operating System** - Windows
 
 **V**
+- [Viasat Browser](https://browser.viasat.com/) - a smarter way to browse the Internet.
+	- **Engine** -
+	- **Operating System** - Windows, Linux, macOS, iOS, Android
+- [Vieb](https://vieb.dev/) - is the Vim Inspired Electron Browser.
+	- **Engine** -
+	- **Operating System** - Linux, macOS, Windows
 - [Vimb](https://fanglingsu.github.io/vimb/) -  is a fast and lightweight vim like web browser based on the webkit web browser engine and the GTK toolkit. Vimb is modal like the great vim editor and also easily configurable during runtime. Vimb is mostly keyboard driven and does not distract you from your daily work.
 	- **Engine** - WebKit
 	- **Operating System** - Linux
@@ -554,6 +599,15 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Wavebox Browser](https://wavebox.io/) - is a secure, private and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
+- [WebBuddy](https://bigbearlabs.com/webbuddy/) - an In-App Browser for Your Favourite Mac Apps.
+	- **Engine** -
+	- **Operating System** - macOS
+- [Webian Shell](https://webian.org/) - is a browser based operating system UI dedicated to using the web.
+	- **Engine** -
+	- **Operating System** -
+- [WebNet Official](https://web-net.ml/download/) - a Chromium Web Browser, Fast and reliable, Which doesnot track you.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Android
 - [Wexond Browser](https://github.com/wexond/browser-base) **[Archived]** - is a modern web browser, built on top of modern web technologies such as Electron and React, that can also be used as a framework to create a custom web browser.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
