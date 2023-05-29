@@ -1,10 +1,13 @@
-# Desktop Web Browsers (Currently: 190)
+# Desktop Web Browsers (Currently: 191)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
 - [115 Browser](https://pc.115.com/browser.html) - is a web browser developed by 115.com.
-	- **Engine** - Blink
+	- **Engine** - Blink, WebKit
 	- **Operating System** - Windows, macOS
+- [2345 Explorer](https://ie.2345.cc/) - is a web browser developed by 2345.com.
+	- **Engine** - 	Trident, WebKit, Blink
+	- **Operating System** - Windows, Android, iOS
 - [360 Secure Browser](https://browser.360.cn/se/en.html) - is a freeware web browser app developed by Qihu 360 Software for Windows, it's user friendly, feature-rich and powerful.
 	- **Engine** - Blink, Trident
 	- **Operating System** - Windows, Mac OS, Android, iOS
@@ -20,14 +23,14 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** -
 - [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - a minimal browser for the distributed web.
-	- **Engine** - XXX
+	- **Engine** - Electron
 	- **Operating System** - Windows, Linux, macOS, Android
 - [Alloy Browser](https://alloy.simoncaminada.ch/) - a web browser for the power user.
 	- **Engine** -
 	- **Operating System** -
 - [Aloha Browser](https://alohabrowser.com/pc/) - is a fast, free, full-featured web browser that provides maximum privacy and security.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - WebKit, Blink
+	- **Operating System** - Windows, iOS, Android
 - [AMP Browser](https://ampbrowser.com/) - is an open source web browser, which accelerates web browsing by automatically loading AMP & MIP web pages, saves bandwidth by enabling data compression, and respects privacy by blocking ads and tracking scripts.
 	- **Engine** - Chromium
 	- **Operating System** - Windows, Ubuntu
@@ -41,7 +44,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Gecko
 	- **Operating System** - Windows
 - [Asobi](https://github.com/bdashore3/Asobi) - removes all of this clutter by giving you a WebView with a minimalist navigation bar (and swipe gestures). By doing these things, you can have a distraction free browsing experience.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - macOS, iOS/iPadOS
 - [Atom Browser](https://browser.ru/) - a new browser from Mail.ru based on Chromium with an emphasis on security and privacy.
 	- **Engine** -
@@ -67,31 +70,31 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Chromium
 	- **Operating System** - Windows, macOS, iOS
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) **[Archived]** - was an experimental peer-to-peer Web browser. It adds new APIs for building hostless applications while remaining compatible with the rest of the Web.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Blink
+	- **Operating System** - Linux, Windows, macOS
 - [Beam](https://www.beamapp.co/) - a new type of software for healthy thinking on the internet.
 	- **Engine** - Webkit
 	- **Operating System** - macOS
 - [Biscuit](https://eatbiscuit.com/) - is a browser where you can organize your apps
-	- **Engine** - XXX
+	- **Engine** - WebKit, Blink
 	- **Operating System** - macOS, Windows, Linux
 - [Blisk](https://blisk.io/) - is a freemium Chromium-based web browser that aims to improve productivity and code quality by providing a wide array of tools for Web development and testing for different type of devices: desktop, tablet and mobile.
 	- **Engine** -
 	- **Operating System** -
 - [Blue Hawk](https://tw3.gitlab.io/b/) - a web browser engineered for the modern web.
-	- **Engine** -
+	- **Engine** - QtWebEngine
 	- **Operating System** - Windows
 - [BonBon Browser]() -  is a lightweight and innovative browser. It makes you appreciate your browsing experience, and offers privacy. We don’t collect any data. Since the project is still in its early stages, we appreciate any feedback that you can offer us.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
 - [Bonsai](https://bonsaibrowser.com/) **[Archived]** -  web-browser for research that helps programmers think clearly.
-	- **Engine** - XXX
+	- **Engine** - Electron
 	- **Operating System** - macOS, Windows, Linux	
 - [Brave Browser](https://brave.com) - is a fast, private and secure web browser for PC, Mac and mobile.
 	- **Engine** - Blink, V8, (WebKit on iOS)
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
 - [BriskBard](https://www.briskbard.com/index.php?lang=en) -  is the new free web browser for windows that integrates everything you need to succeed in all your daily Internet tasks.
-	- **Engine** -
+	- **Engine** - Trident
 	- **Operating System** -
 - [BrowserJet](https://browserjet.com/) - allows you to run multiple sessions with built-in multiple IPs in a single browser.
 	- **Engine** -
@@ -111,14 +114,14 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** -
 - [Catalyst](https://github.com/CatalystDevOrg/Catalyst) - an amazing and elegant ElectronJS web browser.
-	- **Engine** -
+	- **Engine** - Electron
 	- **Operating System** - Windows, Linux, macOS
 - [Catsxp Browser](https://www.catsxp.com/) - is a chrome kernel enhanced browser aiming at simplicity and security.
 	- **Engine** -
-	- **Operating System** -
+	- **Operating System** - Windows
 - [CentBrowser](https://www.centbrowser.com/) - is an enhanced web browser based on Chromium with many convenient features like super drag, mouse gesture, scrollable tab bar...
 	- **Engine** -
-	- **Operating System** -
+	- **Operating System** - Windows
 - [Chedot](http://lp.chedot.com/) - is a web browser built for speed, simplicity, and security.
 	- **Engine** - Chromium
 	- **Operating System** - Windows
@@ -129,8 +132,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - 	V8, Blink
 	- **Operating System** - Windows, Linux, macOS
 - [Chromnius](https://www.chromnius.com/) *(considered as malware)* - provides a cross-platform browser that makes use of a unique Blink Browser Engine.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Blink
+	- **Operating System** - Windows
 - [Citrio Browser](http://citrio.com/) *(considered as malware)* - is a fast, polished browser which demonstrates excellent performance.
 	- **Engine** -
 	- **Operating System** -
@@ -138,16 +141,16 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Gecko
 	- **Operating System** - Windows, macOS, Linux, RISC OS, Android, iOS
 - [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) - is a full-fledged browser with an intuitive search engine and powerful download tool.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Blink
+	- **Operating System** - macOS, Windows, Android
 - [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) - is a Chrome-based browser to give you the best experience possible. Start earning money just for surfing the Internet like you already do.
-	- **Engine** - XXX
+	- **Engine** - Gecko
 	- **Operating System** - macOS, Windows, Android
 - [Colibri Browser](https://colibri.opqr.co/) - is designed to be fast, efficient, and uncluttered. Its interface is uniquely light and compact. It helps you browse the internet faster and view more content without the endless tabs.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Blink
+	- **Operating System** - Windows
 - [Comodo Dragon](https://browser.comodo.com/) - is a web browser that is equipped with high-level security as it prioritizes its users' protection from threats and scams above all else.
-	- **Engine** -
+	- **Engine** - WebKit
 	- **Operating System** -
 - [Coowon](https://coowon.com/) - is a Google Chrome based browser. It supports some popular features like Mouse Gesture, Drag to Go, Double Click to Close Tab, Restore Closed Tab Button, login multiple accounts in special tabs, Floating Window, Translucent Window, etc.
 	- **Engine** -
@@ -170,33 +173,33 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
 - [Decentr Browser](https://decentr.net/) - is an intuitive Web3 blockchain/metaverse browser and custom blockchain that securely stores user browsing data as part of a user's Decentr ID (DecID).
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - 	WebKit, Blink
+	- **Operating System** - Windows, macOS, Linux, iOS Android
 - [Dezor](https://www.dezor.net/) - quickly and safely to the destination. The web browser including VPN & Adblocker.
 	- **Engine** -
 	- **Operating System** - Windows, Linux, Android
 - [Dillo Browser](https://www.dillo.org/) - is a multi-platform graphical web browser known for its speed and small footprint.
-	- **Engine** -
-	- **Operating System** - 
+	- **Engine** - Proprietary
+	- **Operating System** - Linux, BSD, OS X, FreeDOS
 - [Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) **[Archived]** - is a browser that blocks Big Tech ads and trackers, making your browsing experience faster and more secure.
 	- **Engine** -
 	- **Operating System** -
 - [Dooble Browser](https://textbrowser.github.io/dooble/) - is a free and open-source web browser that was created to offer improved privacy for users.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Dooble
+	- **Operating System** - FreeBSD, Linux, macOS, Windows
 - [Dot Browser](https://www.dothq.org/en-US) **[Coming Soon]** - a next-generation web browser with rugged privacy features out-of-the-box.
 	- **Engine** - Gecko
 	- **Operating System** -
 - [DuckDuckGo Browser](https://duckduckgo.com/windows) - is a free browsing app that gives you comprehensive online privacy protection.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - WebKit
+	- **Operating System** - Windows
 
 **E**
 - [Elza Browser](https://github.com/elzabrowser/elza) - private, fast and minimal web browser based on electron with built-in tor.
 	- **Engine** -
 	- **Operating System** - Windows, Linux, macOS
 - [Epic Browser](https://www.epicbrowser.com/) - is a private, secure web browser that blocks ads, trackers, fingerprinting, cryptomining, ultrasound signaling and more.
-	- **Engine** -
+	- **Engine** - Gecko
 	- **Operating System** -
 - [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) (Gnome Web) - is a small browser designed for the web: not for mail, newsgroups, file management, instant messaging, or coffeemaking.
 	- **Engine** -
@@ -207,7 +210,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - QtWebEngine
 	- **Operating System** - Windows, Linux
 - [FastBack](https://www.studiomee.com/fastback) - the browser that doesn't reload when you go back.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - macOS, iOS
 - [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) - is a modern web browser, built on top of modern web technologies such as Electron and React that is mean't to be secure.
 	- **Engine** -
@@ -221,7 +224,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows
 - [Floorp Browser](https://floorp.app/) - is a rapid release browser, like Firefox, in order to maximize security and privacy protection.
 	- **Engine** - Gecko
-	- **Operating System** -
+	- **Operating System** - Windows, Linux, macOS
 - [Flow Browser](https://www.ekioh.com/flow-browser/) - is a web browser with a proprietary browser engine that claims to "dramatically improve rendering performance".
 	- **Engine** -
 	- **Operating System** -
@@ -240,8 +243,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** - macOS, iOS
 - [Google Chrome](https://www.google.com/chrome/) - is a cross-platform web browser developed by Google.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - 	Blink (WebKit on iOS), V8 JavaScript engine
+	- **Operating System** - Linux, Windows, macOS, Android, iOS, ChromeOS
 - [GNU IceCat](https://www.gnu.org/software/gnuzilla/) - is the GNU version of the Mozilla suite, and GNU IceCat is the GNU version of the Firefox browser.
 	- **Engine** - Gecko
 	- **Operating System** - Linux, Windows, macOS, Android
@@ -333,29 +336,29 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 
 **M**
 - [Maxthon Browser](https://www.maxthon.com/) - is a new technology browser that provides technical support for blockchain apps and makes it easier for users.
-	- **Engine** -
-	- **Operating System** -
-- [Mercury Browser](https://thorium.rocks/mercury) - the fastest Firefox fork for Linux and Windows named after Firefox's version control system, Mercurial, and the liquid element No. 80.
+	- **Engine** - Trident, WebKit, Blink
+	- **Operating System** - Windows, macOS, Linux, Android, iOS
+- [Mercury Browser](https://thorium.rocks/mercury) - the fastest Firefox fork named after Firefox's version control system, Mercurial, and the liquid element No. 80.
 	- **Engine** - Gecko
-	- **Operating System** -
+	- **Operating System** - Windows, Linux
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) - is a proprietary, cross-platform web browser created by Microsoft.
 	- **Engine** -
 	- **Operating System** -
 - [Midori Browser](https://astian.org/midori-browser-desktop/) - a fast and secure light web browser by Astian.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Electron
+	- **Operating System** - Linux, Android, Windows, macOS
 - [MilkShake](https://milkshake.netlify.app/) - is a simple web browser with only one tab. There is an url bar and a home button. It is perfect if you open too many tabs and want to stop doing this.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
 - [Min Browser](https://minbrowser.org/) - a fast, minimal browser that protects your privacy.
-	- **Engine** -
-	- **Operating System** -
+	- **Engine** - Blink, Electron
+	- **Operating System** - Windows, macOS, Linux
 - [Mullvad Browser](https://mullvad.net/en/browser) - is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.
 	- **Engine** - Gecko
-	- **Operating System** -
+	- **Operating System** - Windows, macOS, Linux
 - [Mypal Browser](https://www.mypal-browser.org/) - is a current and maintained browser for Windows XP. Turn that old PC into something useful!
 	- **Engine** - Gecko
-	- **Operating System** -
+	- **Operating System** - Windows XP
 
 **N**
 - [Naver Whale Browser](https://whale.naver.com/en/) - is a Chromium-based web browser from the South Korean Internet giant Naver Corporation that fits lighter, more comfortable, and perfect for daily life.
@@ -395,7 +398,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Blink, V8
 	- **Operating System** - Windows, macOS, iOS, Android
 - [Orbitum Browser](https://orbitum.com/) - a browser with set of functions for convenient chatting on the popular social networks.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - Windows, Android
 - [Orion Browser](https://browser.kagi.com/) - very fast, zero telemetry, industry-leading battery life, privacy respecting by design and native support for web extensions.
 	- **Engine** - WebKit
@@ -421,10 +424,10 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Chromium, Trident
 	- **Operating System** - Windows
 - [Polypane](https://polypane.app/) - the perfect browser for web developers and designers.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - Windows, macOS, Linux
 - [Programmer Browser](https://github.com/yessGlory17/programmer-browser) - a fast-searching and space-saving browser specially designed for programmers.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - Windows, Linux
 - [Puffin Browser](https://www.puffin.com/) - is a remote browser developed by CloudMosa, an American mobile technology company founded by Shioupyn Shen.
 	- **Engine** - Blink
@@ -472,16 +475,16 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** - Windows, macOS
 - [Seznam.cz](https://www.seznam.cz/prohlizec) - is a web browser made by czech search engine Seznam.cz. It is quick and safe browser for all users, but is not safe.
-	- **Engine** -
+	- **Engine** - Blink
 	- **Operating System** - Windows, macOS. iOS, Android
 - [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - a full featured web-browser built using C# and CefSharp.
 	- **Engine** - CefSharp
 	- **Operating System** - Windows
 - [Shift](https://tryshift.com/) - is the desktop app for streamlining and collaborating across accounts and workflows.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - Windows, macOS
 - [Sidekick Browser](https://www.meetsidekick.com/) - is the best privacy browser with which you can focus, save time and feel safe.
-	- **Engine** - XXX
+	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
 - [Sielo Browser](https://sielo.app/en/index.html) **[Archived]** - has all the functionalities of a traditional web browser, but that's not the end! No more tabs everywhere, browse differently by using tabs spaces!
 	- **Engine** - Blink
@@ -490,8 +493,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - WebKit+
 	- **Operating System** - macOS
 - [Sizzy](https://sizzy.co/) - is for browsers what modern CI/CD is for deploying sites via FTP. Once you try Sizzy, you can never go back to using regular browsers for development.
-	- **Engine** - XXX
-	- **Operating System** - XXX
+	- **Engine** - 
+	- **Operating System** - 
 - [Skye](https://github.com/skyebrowser/skye) - modern and feature-rich web browser.
 	- **Engine** -
 	- **Operating System** - Windows, Linux, macOS
@@ -505,7 +508,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - Gecko
 	- **Operating System** -Windows
 - [Slimjet Browser](https://www.slimjet.com/) - the fastest browser that automatically blocks ALL ads. No plugins, opt-ins or configurations needed.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - Windows, macOS, Linux
 - [Sogou Explorer](https://ie.sogou.com/) - is a web browser offered by Sogou.
 	- **Engine** - Webkit, Trident
@@ -517,16 +520,16 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** - WebKit, WebKitGTK, Edge WebView2
 	- **Operating System** - macOS, Linux, Windows
 - [Sputnik](https://github.com/LimePotato/Sputnik-Browser) - a lightweight approach to removing Google web service dependency.
-	- **Engine** -
+	- **Engine** - WebKit, Blink
 	- **Operating System** - Windows, macOS, Linux, FreeBSD
 - [SRWare Iron Browser](https://www.srware.net/iron/) - is a free internet browser designed to compete with the likes of Chrome and Edge which focusses on user security as its most important function.
 	- **Engine** - 	Blink, V8
 	- **Operating System** - Windows, macOS, Linux, Android
 - [Stack Browser](https://stackbrowser.com/) - is a spatial browser for mindful online living.
-	- **Engine** - XXX
+	- **Engine** - 
 	- **Operating System** - Windows, macOS
 - [Station](https://getstation.com/) - is the first open-source smart browser for busy people. A single place for all of your web applications.
-	- **Engine** -
+	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
 - [surf](https://surf.suckless.org/) - is a minimalist web browser developed by suckless.org. The user interface of this browser does not include any graphical control elements; it is controlled via keyboard shortcuts or external tools, which may manipulate its behavior by setting its window's properties.
 	- **Engine** - WebKitGTK
@@ -535,8 +538,8 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
 - [Synth](https://synth.app/) - AI Driven Browser that makes you smarter at research and work.
-	- **Engine** - XXX
-	- **Operating System** - XXX
+	- **Engine** - 
+	- **Operating System** - 
 
 **T**
 - [Tempest Browser](https://www.tempest.com/browser) - is a fast, secure and private browser that puts you in control of your personal data online.
@@ -574,7 +577,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 
 **V**
 - [Viasat Browser](https://browser.viasat.com/) - a smarter way to browse the Internet.
-	- **Engine** -
+	- **Engine** - Blink
 	- **Operating System** - Windows, Linux, macOS, iOS, Android
 - [Vieb](https://vieb.dev/) - is the Vim Inspired Electron Browser.
 	- **Engine** -
@@ -591,7 +594,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 
 **W**
 - [w3m](https://w3m.sourceforge.net/) - is a text-based web browser as well as a pager like `more` or `less`.
-	- **Engine** - XXX
+	- **Engine** - Proprietary
 	- **Operating System** - OS/2, Unix-like (Solaris, SunOS, HP-UX, Linux, FreeBSD and EWS-UX (EWS-4800), Windows (with Cygwin), macOS (with Homebrew)
 - [Waterfox](https://www.waterfox.net/) - is an open-source web browser that is forked from Firefox and developed by System1.
 	- **Engine** - Gecko, SpiderMonkey
@@ -606,13 +609,13 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Engine** -
 	- **Operating System** - macOS
 - [Webian Shell](https://webian.org/) - is a browser based operating system UI dedicated to using the web.
-	- **Engine** -
-	- **Operating System** -
-- [WebNet Official](https://web-net.ml/download/) - a Chromium Web Browser, Fast and reliable, Which doesnot track you.
+	- **Engine** - Gecko
+	- **Operating System** - Windows, Linux
+- [WebNet Official](https://web-net.ml/download/) - a Chromium Web Browser, Fast and reliable, Which does not track you.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Android
 - [Wexond Browser](https://github.com/wexond/browser-base) **[Archived]** - is a modern web browser, built on top of modern web technologies such as Electron and React, that can also be used as a framework to create a custom web browser.
-	- **Engine** - Blink
+	- **Engine** - Electron
 	- **Operating System** - Windows, macOS, Linux
 
 **X**
