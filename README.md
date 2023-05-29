@@ -84,7 +84,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Blue Hawk](https://tw3.gitlab.io/b/) - a web browser engineered for the modern web.
 	- **Engine** - QtWebEngine
 	- **Operating System** - Windows
-- [BonBon Browser]() -  is a lightweight and innovative browser. It makes you appreciate your browsing experience, and offers privacy. We don’t collect any data. Since the project is still in its early stages, we appreciate any feedback that you can offer us.
+- [BonBon Browser](https://github.com/BonBon-exchange/bonbon-web-browser) -  is a lightweight and innovative browser. It makes you appreciate your browsing experience, and offers privacy. We don’t collect any data. Since the project is still in its early stages, we appreciate any feedback that you can offer us.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
 - [Bonsai](https://bonsaibrowser.com/) **[Archived]** -  web-browser for research that helps programmers think clearly.
@@ -370,7 +370,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [NetSurf](https://www.netsurf-browser.org/) - is an open-source web browser which uses its own layout engine. Its design goal is to be lightweight and portable.
 	- **Engine** - own engine
 	- **Operating System** - RISC OS, AmigaOS 4, Windows; Linux/Unix-like, BeOS/Haiku, Atari TOS, macOS 3rd party ports: AmigaOS 3, Caanoo, MorphOS, Samsung TVs, Redox OS, Plan 9; KolibriOS port in development
-- [NetSurfer](https://www.netsurf-browser.org/) - an extremely fast and secure web browser to surf the internet with...
+- [NetSurfer](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm) - an extremely fast and secure web browser to surf the internet with...
 	- **Engine** - Edge WebView2
 	- **Operating System** - Windows
 - [Nexus Browser](https://github.com/makdosx/nexus-browser) - is a private browser.
@@ -382,7 +382,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [nOS](https://nos.io/) - access the crypto-powered web.
 	- **Engine** -
 	- **Operating System** - Windows, macOS
-- [Nyxt browser](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm) - is a keyboard-driven web browser designed for power users. Inspired by Emacs and Vim, it has familiar keybindings.
+- [Nyxt browser](https://nyxt.atlas.engineer/) - is a keyboard-driven web browser designed for power users. Inspired by Emacs and Vim, it has familiar keybindings.
 	- **Engine** - WebKit, QtWebEngine
 	- **Operating System** - Windows, macOS, Linux
 
