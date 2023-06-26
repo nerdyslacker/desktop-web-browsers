@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 191)
+# Desktop Web Browsers (Currently: 193)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -356,6 +356,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Mullvad Browser](https://mullvad.net/en/browser) - is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.
 	- **Engine** - Gecko
 	- **Operating System** - Windows, macOS, Linux
+- [Multizen Browser](https://getmultizen.com/) - effortlessly manage multiple browsing sessions, customize user agents, and browse without tracking across numerous websites.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS, Linux
 - [Mypal Browser](https://www.mypal-browser.org/) - is a current and maintained browser for Windows XP. Turn that old PC into something useful!
 	- **Engine** - Gecko
 	- **Operating System** - Windows XP
@@ -426,6 +429,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Polypane](https://polypane.app/) - the perfect browser for web developers and designers.
 	- **Engine** - 
 	- **Operating System** - Windows, macOS, Linux
+- [Power Browser](https://powerdao.ai/features/) - designed to meet your web3 aspirations.
+	- **Engine** - 
+	- **Operating System** - Windows, Linux, Android
 - [Programmer Browser](https://github.com/yessGlory17/programmer-browser) - a fast-searching and space-saving browser specially designed for programmers.
 	- **Engine** - 
 	- **Operating System** - Windows, Linux
