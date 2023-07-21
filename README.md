@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 193)
+# Desktop Web Browsers (Currently: 200)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -172,6 +172,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Dashob](https://dashob.com/) - a web browser that allow you to create limitless boards with web pages.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
+- [dBrowser](https://github.com/dBrowser/dbrowser) - is a web browser for Web3, integrated with IPFS, SSB, Hypercore, Unstoppable Domains and more.
+	- **Engine** -
+	- **Operating System** - Windows, macOS, Linux
 - [Decentr Browser](https://decentr.net/) - is an intuitive Web3 blockchain/metaverse browser and custom blockchain that securely stores user browsing data as part of a user's Decentr ID (DecID).
 	- **Engine** - 	WebKit, Blink
 	- **Operating System** - Windows, macOS, Linux, iOS Android
@@ -248,6 +251,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [GNU IceCat](https://www.gnu.org/software/gnuzilla/) - is the GNU version of the Mozilla suite, and GNU IceCat is the GNU version of the Firefox browser.
 	- **Engine** - Gecko
 	- **Operating System** - Linux, Windows, macOS, Android
+- [Guardian Browser](https://guardian.meazurelearning.com/) - is a secure internet browser that connects test-takers to their ProctorU proctoring sessions across all service lines.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS
 
 **H**
 - [Hayami Browser](https://www.hayami.app/) - is a tile-based mini browser/dashboard app for your daily productivity.
@@ -256,6 +262,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Helium](https://slashlos.github.io/Helium/) - is a floating browser window that allows you to watch media, browse the web and do much more while you stay productive.
 	- **Engine** -
 	- **Operating System** - macOS
+- [Hola Browser](https://hola.org/browser) - the ultimate solution for a truly borderless experience. With our browser, you can easily access websites from around the world!
+	- **Engine** - Blink
+	- **Operating System** - Windows
 
 **I**
 - [Impervious](https://www.impervious.ai/) - a suite of Peer-to-Peer tools for communications, data transport, and payments, built directly into the web browser.
@@ -390,6 +399,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows, macOS, Linux
 
 **O**
+- [OhHai Browser](https://ohhaibrowser.com/) - tabs are in a panel to the left of the browser, allowing you to view more vertical page content, But still allowing access to all of your tabs at a glance.
+	- **Engine** - Blink
+	- **Operating System** - Windows
 - [Opera](https://www.opera.com/) - is a better browser designed for speed, efficiency and protection which includes a built-in ad blocker, tracker blocker and VPN to help keep you safe on the internet.
 	- [Opera One](https://www.opera.com/one) **[Early access]** - is a completely redesigned browser, planned to replace the flagship Opera Browser.
 	- **Engine** - Blink, V8
@@ -426,6 +438,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Polarity Browser](https://polaritybrowser.netlify.app/) - is a feature packed, fast, secure, stable, and highly customizable web browser that offers the latest web standards.
 	- **Engine** - Chromium, Trident
 	- **Operating System** - Windows
+- [PolyBrowser](https://github.com/PolySuite/PolyBrowser) - the "Panoramic" Web Browser.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS, Linux
 - [Polypane](https://polypane.app/) - the perfect browser for web developers and designers.
 	- **Engine** - 
 	- **Operating System** - Windows, macOS, Linux
@@ -551,6 +566,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Tempest Browser](https://www.tempest.com/browser) - is a fast, secure and private browser that puts you in control of your personal data online.
 	- **Engine** - Blink, V8
 	- **Operating System** - Windows, macOS, iOS
+- [Tesla Browser](https://www.teslabrowser.com/en) - is a quick, easy, and secure web browser.
+	- **Engine** - Blink
+	- **Operating System** - Windows
 - [The Classic Browser](https://theclassictools.com/) - uses the Chromium renderer to give you a faster, safer web browser by using its own interface and number-crunching routines.
 	- **Engine** - Chromium
 	- **Operating System** - Windows
@@ -630,11 +648,15 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows, macOS, Android, iOS
 
 **Y**
+- [Y8 Browser](https://www.y8.com/download-app) - play all the games, including Flash games!
+	- **Engine** - Blink
+	- **Operating System** - Windows, macOS, Linux
 - [Yandex Browser](https://browser.yandex.com/) - is a freeware web browser developed by the Russian technology corporation Yandex that uses the Blink web browser engine and is based on the Chromium open source project.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
 
 **Bonus**
+- [Browser Tamer](https://www.aloneguid.uk/projects/bt/) - is a smart and powerful tool that acts as a browser proxy on your machine. It catches the links you click and redirects them to a browser or browser profile of your choice. You can set up rules based on the link’s domain, protocol, file extension and more.
 - [OneLaunch](https://onelaunch.com/) - the desktop integration that will upgrade your Windows 11 experience with all the features you’ve ever wanted and never had in your PC.
 
 **Credits for contribution to**
