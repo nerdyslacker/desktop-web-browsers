@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 200)
+# Desktop Web Browsers (Currently: 201)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -158,6 +158,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Core Browser](https://www.corebrowser.com/) - is the web browser from the future - built specifically to optimise your lifestyle and combine the best of both traditional and modern worlds.
 	- **Engine** -
 	- **Operating System** - Windows, macOS
+- [Cromite](https://github.com/uazo/cromite) - a Bromite fork with ad blocking and privacy enhancements.
+	- **Engine** -
+	- **Operating System** - Windows, Android
 - [Cruz](https://apps.apple.com/us/app/cruz/id402357089?mt=12) - is a new web browser for Mac OS X that offers a few special features you won't find anywhere else.
 	- **Engine** -
 	- **Operating System** - macOS
