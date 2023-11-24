@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 201)
+# Desktop Web Browsers (Currently: 202)
 Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -584,6 +584,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Tor Browser](https://www.torproject.org/download/) - is free and open-source software that guarantees anonymity online and enhances your security and safety while using the internet.
 	- **Engine** - Gecko
 	- **Operating System** - Windows, macOS, Linux, BSD, Android, iOS *(Onion Browser)*
+- [Tusk Browser](https://tuskbrowser.com/) - the Freedom-First Web Browser and Search Engine developed exclusively for Patriots, by Patriots, lets you see all sides.
+	- **Engine** - 
+	- **Operating System** - Windows, macOS
 
 **U**
 - [Ulaa Browser](https://ulaa.com) - is a browser that respects your privacy, protects your personal data, and helps you work online more efficiently.
