@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 212)
+# Desktop Web Browsers (Currently: 211)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
