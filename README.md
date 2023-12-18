@@ -1,5 +1,5 @@
-# Desktop Web Browsers (Currently: 202)
-Almost full list of desktop web browsers (not all browsers in the list are recommended for daily use)
+# Desktop Web Browsers (Currently: 212)
+Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
 - [115 Browser](https://pc.115.com/browser.html) - is a web browser developed by 115.com.
@@ -22,7 +22,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Adaware Safe Browser](https://www.adaware.com/free-safe-browser) - works in conjunction with Adaware Protect, the privacy and security bar that resides on your Windows desktop screen.
 	- **Engine** -
 	- **Operating System** -
-- [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - a minimal browser for the distributed web.
+- [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - is a minimal web browser designed for the distributed web.
 	- **Engine** - Electron
 	- **Operating System** - Windows, Linux, macOS, Android
 - [Alloy Browser](https://alloy.simoncaminada.ch/) - a web browser for the power user.
@@ -89,7 +89,10 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows, macOS, Linux
 - [Bonsai](https://bonsaibrowser.com/) **[Archived]** -  web-browser for research that helps programmers think clearly.
 	- **Engine** - Electron
-	- **Operating System** - macOS, Windows, Linux	
+	- **Operating System** - macOS, Windows, Linux
+- [Borneo Browser](https://github.com/Malcer/Borneo) **[Discontinued]** - is a minimalist web browser application using QtWebKit, originally created as a learning experiment for Qt.
+  	- **Engine** - QtWebEngine
+  	- **Operating System** - 
 - [Brave Browser](https://brave.com) - is a fast, private and secure web browser for PC, Mac and mobile.
 	- **Engine** - Blink, V8, (WebKit on iOS)
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
@@ -104,6 +107,10 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** -
 
 **C**
+- [Cachy Browser](https://github.com/cachyos/cachyos-browser-settings) - A privacy-focused web browser based on LibreWolf, designed for CachyOS, an Arch Linux-based distribution, with enhanced 
+  security and privacy features.
+	- **Engine** - Gecko
+	- **Operating System** - Linux
 - [Camino](https://caminobrowser.org/) **[Discontinued]** - is an open-source Web browser developed with a focus on providing the best possible experience for Mac OS X users.
 	- **Engine** - Gecko
 	- **Operating System** - macOS
@@ -201,7 +208,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 	- **Operating System** - Windows
 
 **E**
-- [Elza Browser](https://github.com/elzabrowser/elza) - private, fast and minimal web browser based on electron with built-in tor.
+- [Elza Browser](https://github.com/elzabrowser/elza) - is private, fast and minimal web browser based on electron with built-in Onion Routing.
 	- **Engine** -
 	- **Operating System** - Windows, Linux, macOS
 - [Epic Browser](https://www.epicbrowser.com/) - is a private, secure web browser that blocks ads, trackers, fingerprinting, cryptomining, ultrasound signaling and more.
@@ -221,6 +228,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) - is a modern web browser, built on top of modern web technologies such as Electron and React that is mean't to be secure.
 	- **Engine** -
 	- **Operating System** -
+- [FireDragon Browser](https://github.com/dr460nf1r3/firedragon-browser) - A fork of LibreWolf with enhanced KDE integration, saner defaults & custom branding
+  	- **Engine** - Gecko
+  	- **Operating System** - Linux
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 	- [Firefox Browser Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - is the blazing fast browser that offers cutting edge developer tools and latest features...
 	- **Engine** - Gecko
@@ -365,6 +375,15 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Min Browser](https://minbrowser.org/) - a fast, minimal browser that protects your privacy.
 	- **Engine** - Blink, Electron
 	- **Operating System** - Windows, macOS, Linux
+- [Minichrome Browser](https://github.com/cprussin/minichrome) - is a minimalistic web browser, built especially with Tiling Window Managers in mind.
+	- **Engine** - Blink (Based on Electron)
+	- **Operating System** - Linux
+- [Minum Browser](https://github.com/octalmage/minum) - is a minimalistic web browser that removes all distractions and allows the user to focus on what's important: the website.
+	- **Engine** -
+	- **Operating System** - MacOS
+- [Mitra Browser](https://github.com/zaqas/Mitra) - A minimalist and open-source web browser written in PyQt5 using Python programming language.
+	- **Engine** -
+	- **Operating System** - 
 - [Mullvad Browser](https://mullvad.net/en/browser) - is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.
 	- **Engine** - Gecko
 	- **Operating System** - Windows, macOS, Linux
@@ -435,6 +454,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - cross-platform application to open any website or media in a floating window.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Linux
+- [PlasmaFox Browser](https://github.com/torvic9/plasmafox) **[ARCHIVED]** - A modified version of Firefox, incorporating KDE-specific features such as file dialogs and global menu integration.
+	- **Engine** - Gecko
+	- **Operating System** - Linux
 - [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) - an open-source browser made for privacy and going towards security.
 	- **Engine** - Chromium
 	- **Operating System** - Windows, macOS, Linux
@@ -595,7 +617,7 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Undetectable Browser](https://undetectable.io/) - is an anti-detect browser designed for easy handling of multi-accounting in social networks.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS
-- [Ungoogled Chromium ](https://github.com/ungoogled-software/ungoogled-chromium) - is a free and open-source variant of the Chromium web browser that removes all Google-specific web services.
+- [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - is a free and open-source variant of the Chromium web browser that removes all Google-specific web services.
 	- **Engine** - Blink, V8
 	- **Operating System** - Windows, macOS, Linux, BSD, Android
 - [Unstoppable Blockchain Browser](https://github.com/unstoppabledomains/unstoppable-demo-browser) **[Archived]** - is a web browser that can browse the decentralized web.
@@ -604,6 +626,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [UR Browser](https://www.ur-browser.com/en-US) - a fast and free web browser that respects user privacy. 100% European, with a built-in VPN and ad blocker.
 	- **Engine** - Blink
 	- **Operating System** - Windows
+- [Uzbl Browser](https://www.uzbl.org/) **[Discontinued]** - is a free and open-source minimalist web browser designed for simplicity and adherence to the Unix philosophy.
+	- **Engine** - WebKit
+	- **Operating System** - Unix-like (Linux, *BSD, Solaris, AIX, MacOS...)
 
 **V**
 - [Viasat Browser](https://browser.viasat.com/) - a smarter way to browse the Internet.
@@ -644,6 +669,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [WebNet Official](https://web-net.ml/download/) - a Chromium Web Browser, Fast and reliable, Which does not track you.
 	- **Engine** -
 	- **Operating System** - Windows, macOS, Android
+- [WebSM Browser](https://github.com/v38armageddon/WebSM) - is a simple, minimalist web browser built on UWP, allowing for a straightforward and easy-to-use browsing experience.
+	- **Engine** - Microsoft WebView2
+	- **Operating System** - Microsoft Windows
 - [Wexond Browser](https://github.com/wexond/browser-base) **[Archived]** - is a modern web browser, built on top of modern web technologies such as Electron and React, that can also be used as a framework to create a custom web browser.
 	- **Engine** - Electron
 	- **Operating System** - Windows, macOS, Linux
@@ -657,6 +685,9 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [Y8 Browser](https://www.y8.com/download-app) - play all the games, including Flash games!
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
+- [Yaeb Browser](https://github.com/bengl/yaeb) - is a minimalist web browser run inside the Electron window, allowing manipulation of webviews and associated tabs through a provided API.
+	- **Engine** -
+	- **Operating System** - 
 - [Yandex Browser](https://browser.yandex.com/) - is a freeware web browser developed by the Russian technology corporation Yandex that uses the Blink web browser engine and is based on the Chromium open source project.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
@@ -670,3 +701,4 @@ Almost full list of desktop web browsers (not all browsers in the list are recom
 - [CostcoFanboy](https://github.com/CostcoFanboy)
 - [anuragrao04](https://github.com/anuragrao04)
 - [niutech](https://github.com/niutech)
+- [AlbydST](https://github.com/AlbydST)
