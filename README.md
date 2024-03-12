@@ -191,7 +191,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 - [Dezor](https://www.dezor.net/) - quickly and safely to the destination. The web browser including VPN & Adblocker.
 	- **Engine** -
 	- **Operating System** - Windows, Linux, Android
-- [Dillo Browser](https://www.dillo.org/) - is a multi-platform graphical web browser known for its speed and small footprint.
+- [Dillo Browser](https://dillo-browser.github.io/) - is a multi-platform graphical web browser known for its speed and small footprint.
 	- **Engine** - Proprietary
 	- **Operating System** - Linux, BSD, OS X, FreeDOS
 - [Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) **[Archived]** - is a browser that blocks Big Tech ads and trackers, making your browsing experience faster and more secure.
