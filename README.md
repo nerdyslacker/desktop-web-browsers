@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 212)
+# Desktop Web Browsers (Currently: 216)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -308,6 +308,9 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 - [Konqueror](https://apps.kde.org/konqueror/) - is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
 	- **Engine** -
 	- **Operating System** -
+- [Kosmik](https://www.kosmik.app) - one place to browse, capture, curate, share your visual inspiration, references, ideas and notes.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
 - [K-Meleon](http://kmeleonbrowser.org/) - is a lightweight, customizable, open-source web browser. It's designed for Microsoft Windows (Win32) operating systems.
 	- **Engine** - Goanna
 	- **Operating System** -
@@ -497,6 +500,9 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 	- **Operating System** - Linux, Windows, macOS, FreeBSD, OpenBSD
 
 **R**
+- [r3dfox](https://eclipse.cx/projects/r3dfox.htm) - a modern Firefox based web browser for Windows 7.
+	- **Engine** - 
+	- **Operating System** - Windows(XP, 7, 8)
 - [Roccat Browser](http://runecats.com/roccat-browser-for-mac/) - is a web browser designed for macOS and iOS, developed and released by Runecats.
 	- **Engine** - Webkit
 	- **Operating System** - macOS, iOS
@@ -577,6 +583,9 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 - [Station](https://getstation.com/) - is the first open-source smart browser for busy people. A single place for all of your web applications.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux
+- [Supermium](https://win32subsystem.live/supermium/) - is a drop-in replacement for Google Chrome with privacy and usability enhancements, optimized for legacy and modern Windows systems alike.
+	- **Engine** - 
+	- **Operating System** - Windows(XP, 7, 8, 10, 11)
 - [surf](https://surf.suckless.org/) - is a minimalist web browser developed by suckless.org. The user interface of this browser does not include any graphical control elements; it is controlled via keyboard shortcuts or external tools, which may manipulate its behavior by setting its window's properties.
 	- **Engine** - WebKitGTK
 	- **Operating System** - Unix-like
@@ -691,6 +700,11 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 - [Yandex Browser](https://browser.yandex.com/) - is a freeware web browser developed by the Russian technology corporation Yandex that uses the Blink web browser engine and is based on the Chromium open source project.
 	- **Engine** - Blink
 	- **Operating System** - Windows, macOS, Linux, Android, iOS
+
+**Z**
+- [Zen Browser](https://github.com/zen-browser/desktop) - experience tranquillity while browsing the web without people tracking you!
+	- **Engine** - 
+	- **Operating System** - 
 
 **Bonus**
 - [Browser Tamer](https://www.aloneguid.uk/projects/bt/) - is a smart and powerful tool that acts as a browser proxy on your machine. It catches the links you click and redirects them to a browser or browser profile of your choice. You can set up rules based on the link’s domain, protocol, file extension and more.
