@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 216)
+# Desktop Web Browsers (Currently: 217)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 **0-9**
@@ -25,6 +25,9 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 - [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - is a minimal web browser designed for the distributed web.
 	- **Engine** - Electron
 	- **Operating System** - Windows, Linux, macOS, Android
+- [Airy](https://tryairy.com) - your ultimate efficiency side browser tool integrating frequently used web pages, ChatGPT, and AI for quick lookups, translations, and notes—enhancing productivity on the fly.
+	- **Engine** -
+	- **Operating System** - Windows, macOS
 - [Alloy Browser](https://alloy.simoncaminada.ch/) - a web browser for the power user.
 	- **Engine** -
 	- **Operating System** -
