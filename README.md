@@ -69,11 +69,11 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Dillo Browser](https://dillo-browser.github.io/) | Proprietary | Linux, BSD, OS X, FreeDOS | Multi-platform graphical web browser |
 |[Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) | - | - | Blocks Big Tech ads and trackers |
 | [Dooble Browser](https://textbrowser.github.io/dooble/) | Dooble | FreeBSD, Linux, macOS, Windows | Free and open-source web browser |
-| [Dot Browser](https://www.dothq.org/en-US) **[Coming Soon]** | Gecko | - | Next-generation web browser |
+| [Dot Browser](https://www.dothq.org/en-US) | Gecko | - | Next-generation web browser **[Coming Soon]** |
 | [DuckDuckGo Browser](https://duckduckgo.com/windows) | WebKit | Windows | Free browsing app with privacy protection |
 | <a id="E"></a> [Elza Browser](https://github.com/elzabrowser/elza) | - | Windows, Linux, macOS | Private, fast and minimal |
 | [Epic Browser](https://www.epicbrowser.com/) | Gecko | - | Private, secure web browser |
-| [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) (Gnome Web) | - | - | Small browser for the web |
+| [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) | WebKitGTK | Linux | Small browser for the web |
 | <a id="F"></a> [Falkon Browser](https://www.falkon.org/) | QtWebEngine | Windows, Linux | Free and open-source by KDE |
 | [FastBack](https://www.studiomee.com/fastback) | - | macOS, iOS | Browser that doesn't reload when you go back |
 | [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) | - | - | Modern web browser built on Electron and React |
