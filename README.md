@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 217)
+# Desktop Web Browsers (Currently: 218)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
@@ -204,6 +204,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [UR Browser](https://www.ur-browser.com/en-US) | Blink | Windows | Fast, free browser respecting user privacy. 100% European with built-in VPN and ad blocker. |
 | [Uzbl Browser](https://www.uzbl.org/) | WebKit | Unix-like (Linux, *BSD, Solaris, AIX, MacOS...) | Free, open-source minimalist browser adhering to Unix philosophy. **[Discontinued]** |
 | <a id="V"></a> [Viasat Browser](https://browser.viasat.com/) | Blink | Windows, Linux, macOS, iOS, Android | A smarter way to browse the Internet. |
+| [Verso](https://github.com/versotile-org/verso) | Servo | Linux, macOS, Windows | A web browser that plays old world blues to build new world hope. |
 | [Vieb](https://vieb.dev/) | - | Linux, macOS, Windows | Vim Inspired Electron Browser. |
 | [Vimb](https://fanglingsu.github.io/vimb/) | WebKit | Linux | Fast, lightweight, vim-like web browser with modal interface and keyboard-driven navigation. |
 | [visurf](https://sr.ht/~sircmpwn/visurf/) | based on NetSurf | based on NetSurf | Work-in-progress frontend for Netsurf. |
