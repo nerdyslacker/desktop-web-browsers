@@ -203,8 +203,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Unstoppable Blockchain Browser](https://github.com/unstoppabledomains/unstoppable-demo-browser) | - | Windows, macOS | Web browser for browsing the decentralized web. **[Archived]** |
 | [UR Browser](https://www.ur-browser.com/en-US) | Blink | Windows | Fast, free browser respecting user privacy. 100% European with built-in VPN and ad blocker. |
 | [Uzbl Browser](https://www.uzbl.org/) | WebKit | Unix-like (Linux, *BSD, Solaris, AIX, MacOS...) | Free, open-source minimalist browser adhering to Unix philosophy. **[Discontinued]** |
-| <a id="V"></a> [Viasat Browser](https://browser.viasat.com/) | Blink | Windows, Linux, macOS, iOS, Android | A smarter way to browse the Internet. |
-| [Verso](https://github.com/versotile-org/verso) | Servo | Linux, macOS, Windows | A web browser that plays old world blues to build new world hope. |
+| <a id="V"></a> [Verso](https://github.com/versotile-org/verso) | Servo | Linux, macOS, Windows | A web browser that plays old world blues to build new world hope. |
+| [Viasat Browser](https://browser.viasat.com/) | Blink | Windows, Linux, macOS, iOS, Android | A smarter way to browse the Internet. |
 | [Vieb](https://vieb.dev/) | - | Linux, macOS, Windows | Vim Inspired Electron Browser. |
 | [Vimb](https://fanglingsu.github.io/vimb/) | WebKit | Linux | Fast, lightweight, vim-like web browser with modal interface and keyboard-driven navigation. |
 | [visurf](https://sr.ht/~sircmpwn/visurf/) | based on NetSurf | based on NetSurf | Work-in-progress frontend for Netsurf. |
