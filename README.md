@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 218)
+# Desktop Web Browsers (Currently: 222)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
@@ -46,6 +46,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Catalyst](https://github.com/CatalystDevOrg/Catalyst) | Electron | Windows, Linux, macOS | ElectronJS web browser |
 | [Catsxp Browser](https://www.catsxp.com/) | - | Windows | Chrome kernel enhanced browser |
 | [CentBrowser](https://www.centbrowser.com/) | - | Windows | Enhanced Chromium-based |
+| [Chawan](https://sr.ht/~bptato/chawan/) | - | - | A web browser for your terminal |
 | [Chedot](http://lp.chedot.com/) | Chromium | Windows | Built for speed, simplicity, and security |
 | [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Windows, Linux, Android, iOS, macOS, BSD | Open-source browser project |
 | [Chromium-Gost](https://github.com/deemru/Chromium-Gost) | V8, Blink | Windows, Linux, macOS | Open-source with GOST algorithm support |
@@ -91,11 +92,13 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Guardian Browser](https://guardian.meazurelearning.com/) | - | Windows, macOS | Secure internet browser for ProctorU |
 | <a id="H"></a> [Hayami Browser](https://www.hayami.app/) | - | - | Tile-based mini browser/dashboard app |
 | [Helium](https://slashlos.github.io/Helium/) | - | macOS | Floating browser window |
+| [Helix](https://github.com/pulse-browser/experiment) | - | - | Just another Gecko browser. **[Experimental]** |
 | [Hola Browser](https://hola.org/browser) | Blink | Windows | Browser for borderless experience |
 | <a id="I"></a> [Impervious](https://www.impervious.ai/) | - | Linux, Windows, macOS | Peer-to-Peer tools suite |
 | [InterWeb](https://github.com/wicknix/InterWebSnow) | - | macOS | Web browser based on Firefox-esr 52 |
 | [Iridium Browser](https://iridiumbrowser.de/) | - | - | Open modification of Chromium |
 | <a id="J"></a> [jumanji](https://pwmt.org/projects/jumanji/) | - | - | Highly customizable and functional |
+| [Jupiter Browser](https://github.com/RicardoCA/JupiterBrowser) | - | Windows | An alternative to Default Browsers. |
 | <a id="K"></a> [Kaktus](https://github.com/azer/kaktus) | - | Windows, macOS, Linux | Minimalistic web browser **[Archived]** |
 | [Kingpin Browser](https://kingpinbrowser.com/) | - | - | Full-featured browser with incognito mode |
 | [kristall](https://kristall.random-projects.net/) | - | Windows, macOS, Linux, BSD | Browser without support for css/js/wasm |
@@ -211,6 +214,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Vivaldi Browser](https://vivaldi.com/) | Blink, V8 | Windows, macOS, Linux, Android, iOS (Experimental) | Powerful, personal, and private web browser packed with features. |
 | <a id="W"></a> [w3m](https://w3m.sourceforge.net/) | Proprietary | OS/2, Unix-like, Windows (Cygwin), macOS (Homebrew) | Text-based web browser and pager. |
 | [Waterfox](https://www.waterfox.net/) | Gecko, SpiderMonkey | Windows, macOS, Linux | Open-source Firefox fork developed by System1. |
+| [Waterfox Classic](https://classic.waterfox.net) | Gecko | Windows, macOS, Linux | Legacy web browser for older systems and those that require use of XPCOM and XUL extensions. **[Discontinued]** |
 | [Wave Browser](https://wavebrowser.co/) | Blink | Windows, macOS (soon) | Efficient, intuitive, and personal web browser. |
 | [Wavebox Browser](https://wavebox.io/) | Blink | Windows, macOS, Linux | Secure, private Chromium browser for productive working across various web apps. |
 | [WebBuddy](https://bigbearlabs.com/webbuddy/) | - | macOS | In-App Browser for Mac Apps. |
