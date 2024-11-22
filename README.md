@@ -1,5 +1,9 @@
-# Desktop Web Browsers (Currently: 222)
+# Desktop Web Browsers (Currently: 235)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
+
+<div align="center">
+<img src="dino.png" width="200"/>
+</div>
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
@@ -16,6 +20,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Alloy Browser](https://alloy.simoncaminada.ch/) | - | - | Web browser for power users |
 | [Aloha Browser](https://alohabrowser.com/pc/) | WebKit, Blink | Windows, iOS, Android | Fast, free, full-featured browser |
 | [AMP Browser](https://ampbrowser.com/) | Chromium | Windows, Ubuntu | Open source, accelerates web browsing |
+| [AOL Shield Pro Browser](https://www.aol.com/products/browsers/shield-pro) | - | Windows | Enhanced safety features help keep you protected from hackers, malware and scam websites. |
 | [Arc Browser](https://arc.net/) | Blink, V8 | MacOS, iOS | Revolutionary, user-centric browser |
 | [Arctic Fox Web Browser](https://github.com/rmottola/Arctic-Fox) | Goana, SpiderMonkey | Mac OS X 10.6+, Linux, BSD, Windows XP | Fork of Pale Moon 27.9.4 |
 | [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) | Gecko | Windows | Standalone application |
@@ -37,14 +42,17 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Borneo Browser](https://github.com/Malcer/Borneo) | QtWebEngine | - | Minimalist web browser **[Discontinued]** |
 | [Brave Browser](https://brave.com) | Blink, V8, (WebKit on iOS) | Windows, macOS, Linux, Android, iOS | Fast, private and secure |
 | [BriskBard](https://www.briskbard.com/index.php?lang=en) | Trident | - | Free web browser for windows |
+| [BrowserBox](https://github.com/BrowserBox/BrowserBox) | - | Web | Browse the whole web from a web page. Remote browser isolation. |
 | [BrowserJet](https://browserjet.com/) | - | - | Multiple sessions with built-in multiple IPs |
 | [Browsh](https://www.brow.sh/) | - | - | Fully-modern text-based browser |
 | <a id="C"></a> [Cachy Browser](https://github.com/cachyos/cachyos-browser-settings) | Gecko | Linux | Privacy-focused, based on LibreWolf |
 | [Camino](https://caminobrowser.org/) | Gecko | macOS | Open-source for Mac OS X users **[Discontinued]** |
 | [Carbon](https://carbon.website/) | Blink | Windows, macOS, iOS, Android | Free and open-source |
 | [Carbonyl](https://github.com/fathyb/carbonyl) | - | - | Chromium running inside terminal |
+| [Cargo](https://cargo.js.org/) | - | Windows, macOS | A browser with almost no UI. |
 | [Catalyst](https://github.com/CatalystDevOrg/Catalyst) | Electron | Windows, Linux, macOS | ElectronJS web browser |
 | [Catsxp Browser](https://www.catsxp.com/) | - | Windows | Chrome kernel enhanced browser |
+| [CCleaner Browser](https://www.ccleaner.com/ccleaner/browser) | - | Windows | The fast, private and secure browser |
 | [CentBrowser](https://www.centbrowser.com/) | - | Windows | Enhanced Chromium-based |
 | [Chawan](https://sr.ht/~bptato/chawan/) | - | - | A web browser for your terminal |
 | [Chedot](http://lp.chedot.com/) | Chromium | Windows | Built for speed, simplicity, and security |
@@ -57,6 +65,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows, Android | Chrome-based browser |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows | Fast, efficient, and uncluttered |
 | [Comodo Dragon](https://browser.comodo.com/) | WebKit | - | High-level security browser |
+| [Companion](https://github.com/brunurd/companion) | - | Windows, macOS, Linux | A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video. |
 | [Coowon](https://coowon.com/) | - | Windows | Google Chrome based browser |
 | [Core Browser](https://www.corebrowser.com/) | - | Windows, macOS | Web browser from the future |
 | [Cromite](https://github.com/uazo/cromite) | - | Windows, Android | Bromite fork with ad blocking |
@@ -76,7 +85,9 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Epic Browser](https://www.epicbrowser.com/) | Gecko | - | Private, secure web browser |
 | [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) | WebKitGTK | Linux | Small browser for the web |
 | <a id="F"></a> [Falkon Browser](https://www.falkon.org/) | QtWebEngine | Windows, Linux | Free and open-source by KDE |
-| [FastBack](https://www.studiomee.com/fastback) | - | macOS, iOS | Browser that doesn't reload when you go back |
+| [FastBack](https://www.studiomee.com/fastback) | - | macOS | Browser that doesn't reload when you go back |
+| [Felida Browser](https://github.com/raluvy95/FelidaBrowser) | - | Windows, Linux | A lightweight Chromium Browser using Electron.js! |
+| [Ferny](https://moduleart.github.io/ferny/) | - | Windows, Linux | A privacy-focused, cross-platform, chromium-based web browser with a greatfull user experience, built on top of Electron, JS and styled-components. |
 | [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) | - | - | Modern web browser built on Electron and React |
 | [FireDragon Browser](https://github.com/dr460nf1r3/firedragon-browser) | Gecko | Linux | Fork of LibreWolf with enhanced KDE integration |
 | [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) | Gecko | Windows, MacOS, Linux, iOS, Android | Free and open-source by Mozilla Foundation |
@@ -86,7 +97,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="G"></a> [Gener8 Browser](https://gener8ads.com/products/browser) | - | Windows | Earn from your browsing |
 | [Ghost Browser](https://ghostbrowser.com/) | - | - | Designed to boost productivity |
 | [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | - | Windows, macOS, Linux, Android, iOS | Blocks ads, trackers & other pop-ups |
-| [Glow Browser](https://github.com/revblaze/Glow) | - | macOS, iOS | Light-weight web browser |
+| [Glow Browser](https://github.com/revblaze/Glow) | - | macOS | Light-weight web browser |
 | [Google Chrome](https://www.google.com/chrome/) | Blink (WebKit on iOS), V8 | Linux, Windows, macOS, Android, iOS, ChromeOS | Cross-platform web browser by Google |
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/) | Gecko | Linux, Windows, macOS, Android | GNU version of Firefox |
 | [Guardian Browser](https://guardian.meazurelearning.com/) | - | Windows, macOS | Secure internet browser for ProctorU |
@@ -94,6 +105,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Helium](https://slashlos.github.io/Helium/) | - | macOS | Floating browser window |
 | [Helix](https://github.com/pulse-browser/experiment) | - | - | Just another Gecko browser. **[Experimental]** |
 | [Hola Browser](https://hola.org/browser) | Blink | Windows | Browser for borderless experience |
+| [Horse](https://browser.horse/) | - | Windows, macOS, Linux | The browser built for professionals who demand focus and efficiency. |
 | <a id="I"></a> [Impervious](https://www.impervious.ai/) | - | Linux, Windows, macOS | Peer-to-Peer tools suite |
 | [InterWeb](https://github.com/wicknix/InterWebSnow) | - | macOS | Web browser based on Firefox-esr 52 |
 | [Iridium Browser](https://iridiumbrowser.de/) | - | - | Open modification of Chromium |
@@ -137,6 +149,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [NetSurfer](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm) | Edge WebView2 | Windows | Fast and secure web browser |
 | [Nexus Browser](https://github.com/makdosx/nexus-browser) | - | Windows | Private browser |
 | [Ninetails](https://github.com/MystPi/ninetails) | - | Windows, Linux, macOS | Private, fast, and beautiful web browser |
+| [Ninja Browser](https://github.com/octalmage/Ninja-Browser) | - | macOS | A browser for ninjas? |
 | [nOS](https://nos.io/) | - | Windows, macOS | Access the crypto-powered web |
 | [Nyxt browser](https://nyxt.atlas.engineer/) | WebKit, QtWebEngine | Windows, macOS, Linux | Keyboard-driven web browser |
 | <a id="O"></a> [OhHai Browser](https://ohhaibrowser.com/) | Blink | Windows | Browser with left-panel tabs |
@@ -149,6 +162,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Otter Browser](https://otter-browser.org/) | Qt WebEngine, QtWebKit | Unix-like, Windows, Haiku, RISC OS, OS/2 | Aims to recreate classic Opera features |
 | <a id="P"></a> [Pale Moon](https://www.palemoon.org/) | Goanna, SpiderMonkey | Windows, macOS, Linux, FreeBSD | Open-source with emphasis on customization |
 | [Pennywise](https://github.com/kamranahmedse/pennywise) | - | Windows, macOS, Linux | Open website or media in a floating window |
+| [Pissandshittium](https://pissandshittium.org/) | - | Windows, Linux | The Browser that doesn't give a shit |
 | [PlasmaFox Browser](https://github.com/torvic9/plasmafox) | Gecko | Linux | Modified Firefox with KDE features **[Archived]** |
 | [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) | Chromium | Windows, macOS, Linux | Open-source browser for privacy |
 | [Polarity Browser](https://polaritybrowser.netlify.app/) | Chromium, Trident | Windows | Feature packed, fast, secure, stable |
@@ -163,14 +177,16 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [QtWeb Internet Browser](http://www.qtweb.net/) | WebKit | Windows, macOS, Linux | Lightweight, secure and portable **[Discontinued]** |
 | [qutebrowser](https://qutebrowser.org/) | WebKit/QtWebEngine | Linux, Windows, macOS, FreeBSD, OpenBSD | Keyboard-focused browser |
 | <a id="R"></a> [r3dfox](https://eclipse.cx/projects/r3dfox.htm) | - | Windows(XP, 7, 8) | Modern Firefox based web browser |
-| [Roccat Browser](http://runecats.com/roccat-browser-for-mac/) | Webkit | macOS, iOS | Web browser for macOS and iOS |
+| [Responsively](https://responsively.app/) | - | Windows, macOS, Linux | A must-have DevTool for all web developers that will make your job easier. |
+| [Roccat Browser](http://runecats.com/roccat-browser-for-mac/) | Webkit | macOS | Web browser for macOS and iOS |
 | <a id="S"></a> [Safari](https://www.apple.com/am/safari/) | WebKit, Nitro | macOS, iOS, iPadOS, Windows | Apple's web browser |
 | [Sanbrowser](https://www.sanbrowser.com/) | - | Windows, macOS | Dual-core browser |
 | [Sandcat Browser](https://www.syhunt.com/sandcat/) | Edge WebView2/Chromium | Windows | Browser for pen-testers and web developers |
 | [SeaLion](https://github.com/wicknix/SeaLion) | - | macOS | Web browser for Mac OS X and Linux |
 | [SeaMonkey Browser](https://www.seamonkey-project.org/) | Gecko, SpiderMonkey | Windows, macOS, Linux | Free web browser suite |
 | [SEOBrowse](https://seobrowse.com/) | - | Windows, macOS | Browse search results for any location |
-| [Seznam.cz](https://www.seznam.cz/prohlizec) | Blink | Windows, macOS. iOS, Android | Web browser by czech search engine |
+| [Servo Tech Demo](https://servo.org/download/) | - | Windows, macOS, Linux | Browser based on Mozilla's Servo web rendering engine |
+| [Seznam.cz](https://www.seznam.cz/prohlizec) | Blink | Windows, macOS | Web browser by czech search engine |
 | [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) | CefSharp | Windows | Full featured web-browser in C# |
 | [Shift](https://tryshift.com/) | - | Windows, macOS | Desktop app for streamlining workflows |
 | [Sidekick Browser](https://www.meetsidekick.com/) | Blink | Windows, macOS, Linux | Privacy browser for focus and time-saving |
@@ -199,6 +215,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [theWeb](https://github.com/vicr123/theweb) | - | Windows, macOS, Linux | A web browser. |
 | [Thorium Browser](https://thorium.rocks/) | Blink | Linux, MacOS, Raspberry Pi, Windows | Fastest Chromium fork, named after radioactive element No. 90. |
 | [Tor Browser](https://www.torproject.org/download/) | Gecko | Windows, macOS, Linux, BSD, Android, iOS (Onion Browser) | Free and open-source software guaranteeing anonymity online and enhancing security and safety. |
+| [Turbo](https://github.com/kevinjosethomas/turbo) | - | - | The browser for developers **[Archived]** |
 | [Tusk Browser](https://tuskbrowser.com/) | - | Windows, macOS | Freedom-First Web Browser and Search Engine developed for Patriots, allowing users to see all sides. |
 | <a id="U"></a> [Ulaa Browser](https://ulaa.com) | Blink | Windows, macOS, Linux, Android | Respects privacy, protects personal data, and enhances online work efficiency. |
 | [Undetectable Browser](https://undetectable.io/) | Blink | Windows, macOS | Anti-detect browser for easy multi-accounting in social networks. |
@@ -226,7 +243,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="Y"></a> [Y8 Browser](https://www.y8.com/download-app) | Blink | Windows, macOS, Linux | Browser for playing all games, including Flash games. |
 | [Yaeb Browser](https://github.com/bengl/yaeb) | - | - | Minimalist Electron-based browser with API for webview manipulation. |
 | [Yandex Browser](https://browser.yandex.com/) | Blink | Windows, macOS, Linux, Android, iOS | Freeware browser by Yandex, based on Chromium. |
-| <a id="Z"></a> [Zen Browser](https://get-zen.vercel.app) | - | - | Privacy-focused browser for tranquil web browsing. |
+| <a id="Z"></a> [Zen Browser](https://zen-browser.app/) | - | - | Privacy-focused browser for tranquil web browsing. |
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
