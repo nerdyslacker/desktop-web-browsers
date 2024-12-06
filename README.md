@@ -83,7 +83,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [DuckDuckGo Browser](https://duckduckgo.com/windows) | WebKit | Windows | Free browsing app with privacy protection |
 | <a id="E"></a> [Elza Browser](https://github.com/elzabrowser/elza) | - | Windows, Linux, macOS | Private, fast and minimal |
 | [Epic Browser](https://www.epicbrowser.com/) | Gecko | - | Private, secure web browser |
-| [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) | WebKitGTK | Linux | Small browser for the web |
+| [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) | WebKitGTK | Linux | Small browser for the web by Gnome |
 | <a id="F"></a> [Falkon Browser](https://www.falkon.org/) | QtWebEngine | Windows, Linux | Free and open-source by KDE |
 | [FastBack](https://www.studiomee.com/fastback) | - | macOS | Browser that doesn't reload when you go back |
 | [Felida Browser](https://github.com/raluvy95/FelidaBrowser) | - | Windows, Linux | A lightweight Chromium Browser using Electron.js! |
