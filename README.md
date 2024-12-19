@@ -76,8 +76,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [dBrowser](https://github.com/dBrowser/dbrowser) | - | Windows, macOS, Linux | Web browser for Web3 |
 | [Decentr Browser](https://decentr.net/) | WebKit, Blink | Windows, macOS, Linux | Web3 blockchain/metaverse browser |
 | [Dezor](https://www.dezor.net/) | - | Windows, Linux | Browser including VPN & Adblocker |
-| [Dia](https://www.diabrowser.com/) | - | - | AI won’t exist as an app. Or a button. We believe
-it’ll be an entirely new environment — built on top of a web browser. **[Coming Soon]** |
+| [Dia](https://www.diabrowser.com/) | - | - | AI won’t exist as an app. Or a button. We believe it’ll be an entirely new environment — built on top of a web browser. **[Coming Soon]** |
 | [Dillo Browser](https://dillo-browser.github.io/) | Proprietary | Linux, BSD, OS X, FreeDOS | Multi-platform graphical web browser |
 |[Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) | - | - | Blocks Big Tech ads and trackers |
 | [Dooble Browser](https://textbrowser.github.io/dooble/) | Dooble | FreeBSD, Linux, macOS, Windows | Free and open-source web browser |
