@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 235)
+# Desktop Web Browsers (Currently: 239)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -76,6 +76,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [dBrowser](https://github.com/dBrowser/dbrowser) | - | Windows, macOS, Linux | Web browser for Web3 |
 | [Decentr Browser](https://decentr.net/) | WebKit, Blink | Windows, macOS, Linux | Web3 blockchain/metaverse browser |
 | [Dezor](https://www.dezor.net/) | - | Windows, Linux | Browser including VPN & Adblocker |
+| [Dia](https://www.diabrowser.com/) | - | - | AI won’t exist as an app. Or a button. We believe
+it’ll be an entirely new environment — built on top of a web browser. **[Coming Soon]** |
 | [Dillo Browser](https://dillo-browser.github.io/) | Proprietary | Linux, BSD, OS X, FreeDOS | Multi-platform graphical web browser |
 |[Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) | - | - | Blocks Big Tech ads and trackers |
 | [Dooble Browser](https://textbrowser.github.io/dooble/) | Dooble | FreeBSD, Linux, macOS, Windows | Free and open-source web browser |
@@ -96,7 +98,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Flow Browser](https://www.ekioh.com/flow-browser/) | - | - | Browser with proprietary engine |
 | <a id="G"></a> [Gener8 Browser](https://gener8ads.com/products/browser) | - | Windows | Earn from your browsing |
 | [Ghost Browser](https://ghostbrowser.com/) | - | - | Designed to boost productivity |
-| [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | - | Windows, macOS, Linux | Blocks ads, trackers & other pop-ups |
+| [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | - | Windows, macOS, Linux | Blocks ads, trackers & other pop-ups **[Discontinued]** |
 | [Glow Browser](https://github.com/revblaze/Glow) | - | macOS | Light-weight web browser |
 | [Google Chrome](https://www.google.com/chrome/) | Blink (WebKit on iOS), V8 | Linux, Windows, macOS, ChromeOS | Cross-platform web browser by Google |
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/) | Gecko | Linux, Windows, macOS | GNU version of Firefox |
@@ -104,6 +106,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="H"></a> [Hayami Browser](https://www.hayami.app/) | - | - | Tile-based mini browser/dashboard app |
 | [Helium](https://slashlos.github.io/Helium/) | - | macOS | Floating browser window |
 | [Helix](https://github.com/pulse-browser/experiment) | - | - | Just another Gecko browser. **[Experimental]** |
+| [Herond Browser ](https://herond.org/) | - | Windows, macOS | Embrace an uninterrupted, ad-free experience, and navigate effortlessly across all your devices with ease |
 | [Hola Browser](https://hola.org/browser) | Blink | Windows | Browser for borderless experience |
 | [Horse](https://browser.horse/) | - | Windows, macOS, Linux | The browser built for professionals who demand focus and efficiency. |
 | <a id="I"></a> [Impervious](https://www.impervious.ai/) | - | Linux, Windows, macOS | Peer-to-Peer tools suite |
@@ -175,6 +178,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="Q"></a> [Qinghu Browser](https://www.xiaohu360.cn/) | - | Windows, macOS | New generation browser for e-commerce |
 | [QQ Browser](https://browser.qq.com/) | WebKit, Trident | Windows, macOS | Web browser by Tencent |
 | [QtWeb Internet Browser](http://www.qtweb.net/) | WebKit | Windows, macOS, Linux | Lightweight, secure and portable **[Discontinued]** |
+| [Quetta Browser](https://www.quetta.net/) | - | Windows, macOS | Your online privacy isn't an option, it's our foundation. **[Coming Soon]** |
 | [qutebrowser](https://qutebrowser.org/) | WebKit/QtWebEngine | Linux, Windows, macOS, FreeBSD, OpenBSD | Keyboard-focused browser |
 | <a id="R"></a> [r3dfox](https://eclipse.cx/projects/r3dfox.htm) | - | Windows(XP, 7, 8) | Modern Firefox based web browser |
 | [Responsively](https://responsively.app/) | - | Windows, macOS, Linux | A must-have DevTool for all web developers that will make your job easier. |
@@ -207,6 +211,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Station](https://getstation.com/) | Blink | Windows, macOS, Linux | Open-source smart browser for web applications. |
 | [Supermium](https://win32subsystem.live/supermium/) | - | Windows (XP, 7, 8, 10, 11) | Chrome replacement with privacy enhancements. |
 | [surf](https://surf.suckless.org/) | WebKitGTK | Unix-like | Minimalist browser controlled via keyboard shortcuts. |
+| [Surf (Deta)](https://deta.surf/) | - | - | It's a browser, file manager, and AI assistant — all in one. **[Coming Soon]** |
 | [sushi-browser](https://sushib.me/) | - | Windows, macOS, Linux | Multi-panel browser for online casino gaming. |
 | [Synth](https://synth.app/) | - | - | AI-driven browser for research and work. |
 | <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
