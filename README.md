@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 239)
+# Desktop Web Browsers (Currently: 240)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -141,6 +141,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Min Browser](https://minbrowser.org/) | Blink, Electron | Windows, macOS, Linux | Fast, minimal browser |
 | [Minichrome Browser](https://github.com/cprussin/minichrome) | Blink (Based on Electron) | Linux | Minimalistic web browser |
 | [Minum Browser](https://github.com/octalmage/minum) | - | MacOS | Minimalistic web browser |
+| [Mirror](https://www.mirror.work) | WebKit | macOS | From cluttered tabs to clean sessions, keep your tabs and your mind organized |
 | [Mitra Browser](https://github.com/zaqas/Mitra) | - | - | Minimalist and open-source |
 | [Mullvad Browser](https://mullvad.net/en/browser) | Gecko | Windows, macOS, Linux | Privacy-focused web browser |
 | [Multizen Browser](https://getmultizen.com/) | - | Windows, macOS, Linux | For managing multiple browsing sessions |
