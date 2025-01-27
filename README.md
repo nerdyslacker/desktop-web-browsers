@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 240)
+# Desktop Web Browsers (Currently: 242)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -92,6 +92,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) | - | - | Modern web browser built on Electron and React |
 | [FireDragon Browser](https://github.com/dr460nf1r3/firedragon-browser) | Gecko | Linux | Fork of LibreWolf with enhanced KDE integration |
 | [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) | Gecko | Windows, MacOS, Linux | Free and open-source by Mozilla Foundation |
+| [FixBrowser](https://www.fixbrowser.org/) | - | Windows, Linux, HaikuOS | A truly lightweight web browser created from scratch |
 | [Flash Browser](https://flash.pm/browser/) | Chromium | Windows | Small browser for embedded flash content |
 | [Floorp Browser](https://floorp.app/) | Gecko | Windows, Linux, macOS | Rapid release browser |
 | [Flow Browser](https://www.ekioh.com/flow-browser/) | - | - | Browser with proprietary engine |
@@ -222,6 +223,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Tor Browser](https://www.torproject.org/download/) | Gecko | Windows, macOS, Linux, BSD (Onion Browser) | Free and open-source software guaranteeing anonymity online and enhancing security and safety. |
 | [Turbo](https://github.com/kevinjosethomas/turbo) | - | - | The browser for developers **[Archived]** |
 | [Tusk Browser](https://tuskbrowser.com/) | - | Windows, macOS | Freedom-First Web Browser and Search Engine developed for Patriots, allowing users to see all sides. |
+| [Twinkstar Browser](https://www.twinkstar.com/) | - | Windows, macOS | A browser loved by college students, offers a range of distinctive features |
 | <a id="U"></a> [Ulaa Browser](https://ulaa.com) | Blink | Windows, macOS, Linux | Respects privacy, protects personal data, and enhances online work efficiency. |
 | [Undetectable Browser](https://undetectable.io/) | Blink | Windows, macOS | Anti-detect browser for easy multi-accounting in social networks. |
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Blink, V8 | Windows, macOS, Linux, BSD | Free and open-source Chromium variant without Google-specific web services. |
