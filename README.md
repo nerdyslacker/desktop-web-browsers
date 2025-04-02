@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 242)
+# Desktop Web Browsers (Currently: 246)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -21,7 +21,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Aloha Browser](https://alohabrowser.com/pc/) | WebKit, Blink | Windows | Fast, free, full-featured browser |
 | [AMP Browser](https://ampbrowser.com/) | Chromium | Windows, Ubuntu | Open source, accelerates web browsing |
 | [AOL Shield Pro Browser](https://www.aol.com/products/browsers/shield-pro) | - | Windows | Enhanced safety features help keep you protected from hackers, malware and scam websites. |
-| [Arc Browser](https://arc.net/) | Blink, V8 | MacOS | Revolutionary, user-centric browser |
+| [Arc Browser](https://arc.net/) | Blink, V8 | Windows, macOS | Revolutionary, user-centric browser |
 | [Arctic Fox Web Browser](https://github.com/rmottola/Arctic-Fox) | Goana, SpiderMonkey | Mac OS X 10.6+, Linux, BSD, Windows XP | Fork of Pale Moon 27.9.4 |
 | [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) | Gecko | Windows | Standalone application |
 | [Asobi](https://github.com/bdashore3/Asobi) | - | macOS | Minimalist navigation bar browser |
@@ -64,6 +64,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows | Chrome-based browser |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows | Fast, efficient, and uncluttered |
+| [Comet](https://www.perplexity.ai/comet) | - | - | A Browser for Agentic Search by Perplexity **[Coming Soon]** |
 | [Comodo Dragon](https://browser.comodo.com/) | WebKit | - | High-level security browser |
 | [Companion](https://github.com/brunurd/companion) | - | Windows, macOS, Linux | A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video. |
 | [Coowon](https://coowon.com/) | - | Windows | Google Chrome based browser |
@@ -82,7 +83,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Dooble Browser](https://textbrowser.github.io/dooble/) | Dooble | FreeBSD, Linux, macOS, Windows | Free and open-source web browser |
 | [Dot Browser](https://www.dothq.org/en-US) | Gecko | - | Next-generation web browser **[Coming Soon]** |
 | [DuckDuckGo Browser](https://duckduckgo.com/windows) | WebKit | Windows | Free browsing app with privacy protection |
-| <a id="E"></a> [Elza Browser](https://github.com/elzabrowser/elza) | - | Windows, Linux, macOS | Private, fast and minimal |
+| <a id="E"></a> [Ecosia Browser](https://www.ecosia.org/browser) | - | Windows | The greenest browser on Earth |
+| [Elza Browser](https://github.com/elzabrowser/elza) | - | Windows, Linux, macOS | Private, fast and minimal |
 | [Epic Browser](https://www.epicbrowser.com/) | Gecko | - | Private, secure web browser |
 | [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) | WebKitGTK | Linux | Small browser for the web by Gnome |
 | <a id="F"></a> [Falkon Browser](https://www.falkon.org/) | QtWebEngine | Windows, Linux | Free and open-source by KDE |
@@ -115,6 +117,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="J"></a> [jumanji](https://pwmt.org/projects/jumanji/) | - | - | Highly customizable and functional |
 | [Jupiter Browser](https://github.com/RicardoCA/JupiterBrowser) | - | Windows | An alternative to Default Browsers. |
 | <a id="K"></a> [Kaktus](https://github.com/azer/kaktus) | - | Windows, macOS, Linux | Minimalistic web browser **[Archived]** |
+| [K-browser](https://k-browser.com/) | Trident | Windows | A simple lightweight browser |
 | [Kingpin Browser](https://kingpinbrowser.com/) | - | - | Full-featured browser with incognito mode |
 | [kristall](https://kristall.random-projects.net/) | - | Windows, macOS, Linux, BSD | Browser without support for css/js/wasm |
 | [Konqueror](https://apps.kde.org/konqueror/) | - | - | KDE's Webbrowser and file manager |
@@ -158,6 +161,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Nyxt browser](https://nyxt.atlas.engineer/) | WebKit, QtWebEngine | Windows, macOS, Linux | Keyboard-driven web browser |
 | <a id="O"></a> [OhHai Browser](https://ohhaibrowser.com/) | Blink | Windows | Browser with left-panel tabs |
 | [Opera](https://www.opera.com/) | Blink, V8 | Windows, macOS, Linux, FreeBSD, Nintendo | Fast, efficient browser with built-in features |
+| [Opera Air](https://www.opera.com/air) | Blink, V8 | Windows | Discover a focused, balanced, and stress-free web |
 | [Opera GX](https://www.opera.com/gx) | Blink, V8 | Windows, macOS | Browser built for gamers |
 | [Opera Crypto Browser](https://www.opera.com/crypto/next) | Blink, V8 | Windows, macOS | Browser for Web3 experience |
 | [Orbitum Browser](https://orbitum.com/) | - | Windows | Browser with social network features |
