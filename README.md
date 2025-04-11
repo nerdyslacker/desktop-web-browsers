@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 246)
+# Desktop Web Browsers (Currently: 247)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -65,7 +65,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows | Chrome-based browser |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows | Fast, efficient, and uncluttered |
 | [Comet](https://www.perplexity.ai/comet) | - | - | A Browser for Agentic Search by Perplexity **[Coming Soon]** |
-| [Comodo Dragon](https://browser.comodo.com/) | WebKit | - | High-level security browser |
+| [Comodo Dragon](https://browser.comodo.com/) | Blink | - | Faster, better than Chrome |
+| [Comodo Icedragon](https://browser.comodo.com/) | Gecko | - | Faster, better than Firefox |
 | [Companion](https://github.com/brunurd/companion) | - | Windows, macOS, Linux | A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video. |
 | [Coowon](https://coowon.com/) | - | Windows | Google Chrome based browser |
 | [Core Browser](https://www.corebrowser.com/) | - | Windows, macOS | Web browser from the future |
