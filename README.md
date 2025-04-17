@@ -111,7 +111,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Helix](https://github.com/pulse-browser/experiment) | - | - | Just another Gecko browser. **[Experimental]** |
 | [Herond Browser ](https://herond.org/) | - | Windows, macOS | Embrace an uninterrupted, ad-free experience, and navigate effortlessly across all your devices with ease |
 | [Hola Browser](https://hola.org/browser) | Blink | Windows | Browser for borderless experience |
-| [Horse](https://browser.horse/) | - | Windows, macOS, Linux | The browser built for professionals who demand focus and efficiency. |
+| [Horse Browser](https://gethorse.com) | Chromium | Windows, macOS, Linux | The browser built for professionals who demand focus and efficiency |
 | <a id="I"></a> [Impervious](https://www.impervious.ai/) | - | Linux, Windows, macOS | Peer-to-Peer tools suite |
 | [InterWeb](https://github.com/wicknix/InterWebSnow) | - | macOS | Web browser based on Firefox-esr 52 |
 | [Iridium Browser](https://iridiumbrowser.de/) | - | - | Open modification of Chromium |
