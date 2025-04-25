@@ -173,7 +173,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Pennywise](https://github.com/kamranahmedse/pennywise) | - | Windows, macOS, Linux | Open website or media in a floating window |
 | [Pissandshittium](https://pissandshittium.org/) | - | Windows, Linux | The Browser that doesn't give a shit |
 | [PlasmaFox Browser](https://github.com/torvic9/plasmafox) | Gecko | Linux | Modified Firefox with KDE features **[Archived]** |
-| [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) | Chromium | Windows, macOS, Linux | Open-source browser for privacy |
+| [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) | Electron | Windows, macOS, Linux | Open-source browser for privacy |
 | [Polarity Browser](https://polaritybrowser.netlify.app/) | Chromium, Trident | Windows | Feature packed, fast, secure, stable |
 | [PolyBrowser](https://github.com/PolySuite/PolyBrowser) | - | Windows, macOS, Linux | The "Panoramic" Web Browser |
 | [Polypane](https://polypane.app/) | - | Windows, macOS, Linux | Browser for web developers and designers |
