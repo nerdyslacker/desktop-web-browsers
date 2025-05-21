@@ -85,6 +85,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Dot Browser](https://www.dothq.org/en-US) | Gecko | - | Next-generation web browser **[Coming Soon]** |
 | [DuckDuckGo Browser](https://duckduckgo.com/windows) | WebKit | Windows | Free browsing app with privacy protection |
 | <a id="E"></a> [Ecosia Browser](https://www.ecosia.org/browser) | - | Windows | The greenest browser on Earth |
+| [Edgescape Navigator](https://thedoggybrad.github.io/edgescape_navigator/) | EdgeWebView2 | Windows | Just a web browser, no bloatware, no mess and no unnecessary features.  |
 | [Elza Browser](https://github.com/elzabrowser/elza) | - | Windows, Linux, macOS | Private, fast and minimal |
 | [Epic Browser](https://www.epicbrowser.com/) | Gecko | - | Private, secure web browser |
 | [Epiphany](https://flathub.org/apps/org.gnome.Epiphany) | WebKitGTK | Linux | Small browser for the web by Gnome |
