@@ -63,11 +63,11 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Cliqz](https://cliqz.com/en/desktop) | Gecko | Windows, macOS, Linux, RISC OS | Privacy-oriented web browser and search engine |
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows | Chrome-based browser |
-| [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows | Fast, efficient, and uncluttered |
+| [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, macOS, Linux | Fast, efficient, and uncluttered |
 | [Comet](https://www.perplexity.ai/comet) | - | - | A Browser for Agentic Search by Perplexity **[Coming Soon]** |
 | [Comodo Dragon](https://browser.comodo.com/) | Blink | - | Faster, better than Chrome |
 | [Comodo Icedragon](https://browser.comodo.com/) | Gecko | - | Faster, better than Firefox |
-| [Companion](https://github.com/brunurd/companion) | - | Windows, macOS, Linux | A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video. |
+| [Companion](https://github.com/brunurd/companion) | - | Windows| A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video. |
 | [Coowon](https://coowon.com/) | - | Windows | Google Chrome based browser |
 | [Core Browser](https://www.corebrowser.com/) | - | Windows, macOS | Web browser from the future |
 | [Cromite](https://github.com/uazo/cromite) | - | Windows | Bromite fork with ad blocking |
