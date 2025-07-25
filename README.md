@@ -271,4 +271,3 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 - [CostcoFanboy](https://github.com/CostcoFanboy)
 - [anuragrao04](https://github.com/anuragrao04)
 - [niutech](https://github.com/niutech)
-- [AlbydST](https://github.com/AlbydST)
