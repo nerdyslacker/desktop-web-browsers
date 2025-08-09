@@ -256,7 +256,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="Y"></a> [Y8 Browser](https://www.y8.com/download-app) | Blink | Windows, macOS, Linux | Browser for playing all games, including Flash games. |
 | [Yaeb Browser](https://github.com/bengl/yaeb) | - | - | Minimalist Electron-based browser with API for webview manipulation. |
 | [Yandex Browser](https://browser.yandex.com/) | Blink | Windows, macOS, Linux | Freeware browser by Yandex, based on Chromium. |
-| <a id="Z"></a> [Zen Browser](https://zen-browser.app/) | - | Windows, macOS, Linux | Privacy-focused browser for tranquil web browsing. |
+| <a id="Z"></a> [Zen Browser](https://zen-browser.app/) | Gecko | Windows, macOS, Linux | Privacy-focused browser for tranquil web browsing. |
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
