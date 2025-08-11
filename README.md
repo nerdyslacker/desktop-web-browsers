@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 249)
+# Desktop Web Browsers (Currently: 250)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -37,6 +37,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Biscuit](https://eatbiscuit.com/) | WebKit, Blink | macOS, Windows, Linux | Browser to organize your apps |
 | [Blisk](https://blisk.io/) | - | - | Freemium Chromium-based for Web development |
 | [Blue Hawk](https://tw3.gitlab.io/b/) | QtWebEngine | Windows | Engineered for the modern web |
+| [Board Browser](https://boardbrowser.vercel.app/) | Chromium | macOS, Windows, Linux | An open-source browser focused on boards |
 | [BonBon Browser](https://github.com/BonBon-exchange/bonbon-web-browser) | - | Windows, macOS, Linux | Lightweight and innovative |
 | [Bonsai](https://bonsaibrowser.com/) | Electron | macOS, Windows, Linux | Web-browser for research **[Archived]** |
 | [Borneo Browser](https://github.com/Malcer/Borneo) | QtWebEngine | - | Minimalist web browser **[Discontinued]** |
