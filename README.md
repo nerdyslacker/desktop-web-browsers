@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 248)
+# Desktop Web Browsers (Currently: 249)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -171,8 +171,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 |[ōryōki](http://oryoki.io/) | Chromium | macOS | Experimental browser with thin interface |
 | [Otter Browser](https://otter-browser.org/) | Qt WebEngine, QtWebKit | Unix-like, Windows, Haiku, RISC OS, OS/2 | Aims to recreate classic Opera features |
 | <a id="P"></a> [Pale Moon](https://www.palemoon.org/) | Goanna, SpiderMonkey | Windows, macOS, Linux, FreeBSD | Open-source with emphasis on customization |
-| [Pennywise](https://github.com/kamranahmedse/pennywise) | - | Windows, macOS, Linux | Open website or media in a floating window |
 | [PeerSky Browser](https://github.com/p2plabsxyz/peersky-browser) | Electron | Windows, macOS, Linux | A Peer-to-Peer, Local-First Browser Rebuilding the Web for Good. |
+| [Pennywise](https://github.com/kamranahmedse/pennywise) | - | Windows, macOS, Linux | Open website or media in a floating window |
 | [Pissandshittium](https://pissandshittium.org/) | - | Windows, Linux | The Browser that doesn't give a shit |
 | [PlasmaFox Browser](https://github.com/torvic9/plasmafox) | Gecko | Linux | Modified Firefox with KDE features **[Archived]** |
 | [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) | Electron | Windows, macOS, Linux | Open-source browser for privacy |
