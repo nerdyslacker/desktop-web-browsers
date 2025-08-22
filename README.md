@@ -26,8 +26,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) | Gecko | Windows | Standalone application |
 | [Asobi](https://github.com/bdashore3/Asobi) | - | macOS | Minimalist navigation bar browser |
 | [Atom Browser](https://browser.ru/) | - | - | New browser from Mail.ru |
-| [Avast Secure Browser](https://www.avast.com/secure-browser#pc)  | - | - | Free web browser for secure protection |
-| [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc) | - | - | Secure browser for online privacy |
+| [Avast Secure Browser](https://www.avast.com/secure-browser#pc)  | - | Windows, macOS | Free web browser for secure protection |
+| [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc) | - | Windows, macOS | Secure browser for online privacy |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
 | <a id="B"></a> [BadWolf Browser](https://hacktivis.me/projects/badwolf) | WebKitGTK+ | Linux, NetBSD, OpenBSD, FreeBSD | Minimalist and privacy-oriented |
 | [Basilisk Browser](https://www.basilisk-browser.org/) | Goanna | Windows, Linux, macOS, FreeBSD | Free and Open Source XUL-based |
@@ -84,7 +84,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 |[Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) | - | - | Blocks Big Tech ads and trackers |
 | [Dooble Browser](https://textbrowser.github.io/dooble/) | Dooble | FreeBSD, Linux, macOS, Windows | Free and open-source web browser |
 | [Dot Browser](https://www.dothq.org/en-US) | Gecko | - | Next-generation web browser **[Coming Soon]** |
-| [DuckDuckGo Browser](https://duckduckgo.com/windows) | WebKit | Windows | Free browsing app with privacy protection |
+| DuckDuckGo Browser [Windows](https://duckduckgo.com/windows)/[Mac](https://duckduckgo.com/mac) | WebKit, EdgeWebView2 | Windows, macOS | Free browsing app with privacy protection |
 | <a id="E"></a> [Ecosia Browser](https://www.ecosia.org/browser) | - | Windows | The greenest browser on Earth |
 | [Edgescape Navigator](https://thedoggybrad.github.io/edgescape_navigator/) | EdgeWebView2 | Windows | Just a web browser, no bloatware, no mess and no unnecessary features.  |
 | [Elza Browser](https://github.com/elzabrowser/elza) | - | Windows, Linux, macOS | Private, fast and minimal |
@@ -142,7 +142,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Lynx](https://lynx.invisible-island.net/) | - | - | Text-based web browser |
 | <a id="M"></a> [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux | Browser with blockchain app support |
 | [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux | Fastest Firefox fork |
-| [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | - | - | Cross-platform web browser by Microsoft |
+| [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | Blink, V8 | Windows, macOS, Linux | Cross-platform web browser by Microsoft |
 | [Midori Browser](https://astian.org/midori-browser-desktop/) | Electron | Linux, Windows, macOS | Fast and secure light web browser |
 | [MilkShake](https://milkshake.netlify.app/) | - | Windows, macOS, Linux | Simple web browser with only one tab |
 | [Min Browser](https://minbrowser.org/) | Blink, Electron | Windows, macOS, Linux | Fast, minimal browser |
@@ -166,7 +166,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Opera](https://www.opera.com/) | Blink, V8 | Windows, macOS, Linux, FreeBSD, Nintendo | Fast, efficient browser with built-in features |
 | [Opera Air](https://www.opera.com/air) | Blink, V8 | Windows | Discover a focused, balanced, and stress-free web |
 | [Opera GX](https://www.opera.com/gx) | Blink, V8 | Windows, macOS | Browser built for gamers |
-| [Opera Crypto Browser](https://www.opera.com/crypto/next) | Blink, V8 | Windows, macOS | Browser for Web3 experience |
+| [Opera Crypto Browser](https://www.opera.com/crypto/next) | Blink, V8 | Windows, macOS | Browser for Web3 experience **[Discontinued]** |
 | [Orbitum Browser](https://orbitum.com/) | - | Windows | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | macOS | Fast, private browser |
 |[ōryōki](http://oryoki.io/) | Chromium | macOS | Experimental browser with thin interface |
