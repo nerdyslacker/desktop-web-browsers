@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 247)
+# Desktop Web Browsers (Currently: 252)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -153,11 +153,13 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Mypal Browser](https://www.mypal-browser.org/) | Gecko | Windows XP | Maintained browser for Windows XP |
 | <a id="N"></a> [Naver Whale Browser](https://whale.naver.com/en/) | Blink, WebKit (iOS) | Windows, macOS, Linux | Chromium-based web browser |
 | [Neriven](https://www.neriven.co.uk/) | - | Windows, macOS | Smart browser with easy automation |
+| [Netscape](https://isp.netscape.com/) | - | Windows | Chromium-based browser with AOL search engine |
 | [NetSurf](https://www.netsurf-browser.org/) | own engine | RISC OS, AmigaOS, Windows, Linux/Unix-like, BeOS/Haiku, Atari TOS, macOS | Open-source web browser |
 | [NetSurfer](https://www.ssuiteoffice.com/software/netsurferwebbrowser.htm) | Edge WebView2 | Windows | Fast and secure web browser |
 | [Nexus Browser](https://github.com/makdosx/nexus-browser) | - | Windows | Private browser |
 | [Ninetails](https://github.com/MystPi/ninetails) | - | Windows, Linux, macOS | Private, fast, and beautiful web browser |
 | [Ninja Browser](https://github.com/octalmage/Ninja-Browser) | - | macOS | A browser for ninjas? |
+| [Norton Private Browser](https://us.norton.com/products/norton-private-browser) | - | Windows, macOS | A free, more private browser that provides protection for your digital life. |
 | [nOS](https://nos.io/) | - | Windows, macOS | Access the crypto-powered web |
 | [Nyxt browser](https://nyxt.atlas.engineer/) | WebKit, QtWebEngine | Windows, macOS, Linux | Keyboard-driven web browser |
 | <a id="O"></a> [OhHai Browser](https://ohhaibrowser.com/) | Blink | Windows | Browser with left-panel tabs |
