@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 252)
+# Desktop Web Browsers (Currently: 253)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -184,6 +184,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Polypane](https://polypane.app/) | - | Windows, macOS, Linux | Browser for web developers and designers |
 | [Power Browser](https://powerdao.ai/features/) | - | Windows, Linux | Designed for web3 aspirations |
 | [Programmer Browser](https://github.com/yessGlory17/programmer-browser) | - | Windows, Linux | Fast-searching browser for programmers |
+| [PyBrowser](http://server-korovy.mooo.com:88/about/Python/P/PyBrowser%20(Unknown)[sapbot].zip) | - | Windows, Linux, macOS | CLI Browser written on Python |
 | [Puffin Browser](https://www.puffin.com/) | Blink | Windows, macOS TV, Linux | Remote browser by CloudMosa |
 | [Pulse Browser](https://pulsebrowser.app/) | Gecko | Windows, macOS, Linux | Experimental Firefox fork |
 | <a id="Q"></a> [Qinghu Browser](https://www.xiaohu360.cn/) | - | Windows, macOS | New generation browser for e-commerce |
