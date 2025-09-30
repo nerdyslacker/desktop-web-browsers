@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 252)
+# Desktop Web Browsers (Currently: 256)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -15,6 +15,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html) | Blink, Trident | Windows, macOS | Another version from Qihu |
 | <a id="A"></a> [Acent Browser](https://acent.tech/) (Osiris) | - | - | Blockchain-only browser |
 | [Adaware Safe Browser](https://www.adaware.com/free-safe-browser) | - | - | Works with Adaware Protect |
+| [Adblock Browser](https://adblockbrowser.org/) | - | Windows, macOS | Ads Under Control: Discover a Clean Internet |
 | [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) | Electron | Windows, Linux, macOS | Minimal browser for distributed web |
 | [Airy](https://tryairy.com) | - | Windows, macOS | Efficiency side browser tool |
 | [Alloy Browser](https://alloy.simoncaminada.ch/) | - | - | Web browser for power users |
@@ -110,10 +111,12 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Guardian Browser](https://guardian.meazurelearning.com/) | - | Windows, macOS | Secure internet browser for ProctorU |
 | <a id="H"></a> [Hayami Browser](https://www.hayami.app/) | - | - | Tile-based mini browser/dashboard app |
 | [Helium](https://slashlos.github.io/Helium/) | - | macOS | Floating browser window |
+| [Helium Browser](https://helium.computer/) | - | Windows, macOS, Linux | Private, fast, and honest web browser |
 | [Helix](https://github.com/pulse-browser/experiment) | - | - | Just another Gecko browser. **[Experimental]** |
 | [Herond Browser ](https://herond.org/) | - | Windows, macOS | Embrace an uninterrupted, ad-free experience, and navigate effortlessly across all your devices with ease |
 | [Hola Browser](https://hola.org/browser) | Blink | Windows | Browser for borderless experience |
 | [Horse Browser](https://gethorse.com) | Chromium | Windows, macOS, Linux | The browser built for professionals who demand focus and efficiency |
+| [Huawei  Browser](https://consumer.huawei.com/cn/mobileservices/browser/) | - | Windows | Built-in powerful privacy protection technology, including intelligent anti-tracking, malicious URL blocking, ad filtering |
 | <a id="I"></a> [Impervious](https://www.impervious.ai/) | - | Linux, Windows, macOS | Peer-to-Peer tools suite |
 | [InterWeb](https://github.com/wicknix/InterWebSnow) | - | macOS | Web browser based on Firefox-esr 52 |
 | [Iridium Browser](https://iridiumbrowser.de/) | - | - | Open modification of Chromium |
@@ -235,6 +238,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Tusk Browser](https://tuskbrowser.com/) | - | Windows, macOS | Freedom-First Web Browser and Search Engine developed for Patriots, allowing users to see all sides. |
 | [Twinkstar Browser](https://www.twinkstar.com/) | - | Windows, macOS | A browser loved by college students, offers a range of distinctive features |
 | <a id="U"></a> [Ulaa Browser](https://ulaa.com) | Blink | Windows, macOS, Linux | Respects privacy, protects personal data, and enhances online work efficiency. |
+| [Ultimatum](https://github.com/gonzazoid/Ultimatum) | Blink | Windows | Chromium fork with anti-detect browser capabilities, web3.0 support. |
 | [Undetectable Browser](https://undetectable.io/) | Blink | Windows, macOS | Anti-detect browser for easy multi-accounting in social networks. |
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Blink, V8 | Windows, macOS, Linux, BSD | Free and open-source Chromium variant without Google-specific web services. |
 | [Unstoppable Blockchain Browser](https://github.com/unstoppabledomains/unstoppable-demo-browser) | - | Windows, macOS | Web browser for browsing the decentralized web. **[Archived]** |
