@@ -29,6 +29,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Atom Browser](https://browser.ru/) | - | - | New browser from Mail.ru |
 | [Avast Secure Browser](https://www.avast.com/secure-browser#pc)  | - | Windows, macOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc) | - | Windows, macOS | Secure browser for online privacy |
+| [AWBfL](https://sources.vsta.org:7100/awbfl/index) | Webkit2 | Linux | Webkit2 browser coded in vala |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
 | <a id="B"></a> [BadWolf Browser](https://hacktivis.me/projects/badwolf) | WebKitGTK+ | Linux, NetBSD, OpenBSD, FreeBSD | Minimalist and privacy-oriented |
 | [Basilisk Browser](https://www.basilisk-browser.org/) | Goanna | Windows, Linux, macOS, FreeBSD | Free and Open Source XUL-based |
