@@ -1,4 +1,4 @@
-# Desktop Web Browsers (Currently: 257)
+# Desktop Web Browsers (Currently: 258)
 Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
@@ -67,7 +67,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows | Chrome-based browser |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, Linux, macOS | Fast, efficient, and uncluttered |
-| [Comet](https://www.perplexity.ai/comet) | - | - | A Browser for Agentic Search by Perplexity **[Coming Soon]** |
+| [Comet](https://www.perplexity.ai/comet) | - | - | A Browser for Agentic Search by Perplexity |
 | [Comodo Dragon](https://browser.comodo.com/) | Blink | - | Faster, better than Chrome |
 | [Comodo Icedragon](https://browser.comodo.com/) | Gecko | - | Faster, better than Firefox |
 | [Companion](https://github.com/brunurd/companion) | - | Windows, macOS, Linux | A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video. |
@@ -95,7 +95,8 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | <a id="F"></a> [Falkon Browser](https://www.falkon.org/) | QtWebEngine | Windows, Linux | Free and open-source by KDE |
 | [FastBack](https://www.studiomee.com/fastback) | - | macOS | Browser that doesn't reload when you go back |
 | [Felida Browser](https://github.com/raluvy95/FelidaBrowser) | - | Windows, Linux | A lightweight Chromium Browser using Electron.js! |
-| [Ferny](https://moduleart.github.io/ferny/) | - | Windows, Linux | A privacy-focused, cross-platform, chromium-based web browser with a greatfull user experience, built on top of Electron, JS and styled-components. |
+| [Fellou Agentic AI Browser](https://fellou.ai/) | - | Windows, Linux | The world's first agentic AI browser that automates web and desktop-based tasks. |
+| [Ferny](https://moduleart.github.io/ferny/) | - | Windows, macOS | A privacy-focused, cross-platform, chromium-based web browser with a greatfull user experience, built on top of Electron, JS and styled-components. |
 | [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) | - | - | Modern web browser built on Electron and React |
 | [FireDragon Browser](https://github.com/dr460nf1r3/firedragon-browser) | Gecko | Linux | Fork of LibreWolf with enhanced KDE integration |
 | [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) | Gecko | Windows, MacOS, Linux | Free and open-source by Mozilla Foundation |
