@@ -382,7 +382,7 @@ A curated collection of browsers named starting from S.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="S"></a> [Safari](https://www.apple.com/am/safari/) | WebKit, Nitro | macOS, Windows | Apple's web browser |
+| <a id="S"></a> [Safari](https://www.apple.com/am/safari/) | WebKit, Nitro | macOS | Apple's web browser |
 | [Sanbrowser](https://www.sanbrowser.com/) | Chromium | Windows, macOS | Dual-core browser |
 | [Sandcat Browser](https://www.syhunt.com/sandcat/) | Edge WebView2/Chromium | Windows | Browser for pen-testers and web developers |
 | [SeaLion](https://github.com/wicknix/SeaLion) | Gecko | macOS | Web browser for Mac OS X and Linux |
