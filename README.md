@@ -165,7 +165,7 @@ A curated collection of browsers named starting from F.
 | [Ferny](https://moduleart.github.io/ferny/) | Chromium | Windows, macOS | A privacy-focused, cross-platform, chromium-based web browser with a greatfull user experience, built on top of Electron, JS and styled-components. |
 | [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) | Electron | Windows, macOS, Linux | Modern web browser built on Electron and React |
 | [FireDragon Browser](https://github.com/dr460nf1r3/firedragon-browser) | Gecko | Linux | Fork of LibreWolf with enhanced KDE integration |
-| [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) | Gecko | Windows, MacOS, Linux | Free and open-source by Mozilla Foundation |
+| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) | Gecko | Windows, MacOS, Linux | Free and open-source by Mozilla Foundation |
 | [FixBrowser](https://www.fixbrowser.org/) | Custom | Windows, Linux, HaikuOS | A truly lightweight web browser created from scratch |
 | [Flash Browser](https://flash.pm/browser/) | Chromium | Windows | Small browser for embedded flash content |
 | [Floorp Browser](https://floorp.app/) | Gecko | Windows, Linux, macOS | Rapid release browser |
@@ -392,7 +392,7 @@ A curated collection of browsers named starting from S.
 | [Seznam.cz](https://www.seznam.cz/prohlizec) | Blink | Windows, macOS | Web browser by czech search engine |
 | [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) | CefSharp | Windows | Full featured web-browser in C# |
 | [Shift](https://tryshift.com/) | Electron | Windows, macOS | Desktop app for streamlining workflows |
-| [Sidekick Browser](https://www.meetsidekick.com/) | Blink | Windows, macOS, Linux | Privacy browser for focus and time-saving |
+| [Sidekick Browser](https://www.meetsidekick.com/) | Blink | Windows, macOS, Linux | Privacy browser for focus and time-saving **[Discontinued]** |
 | [Sielo Browser](https://sielo.app/en/index.html) | Blink | Windows, macOS, Linux | Traditional web browser with tab spaces functionality. **[Archived]** |
 | [SigmaOS Browser](https://beta.sigmaos.com/) | WebKit+ | macOS | Offers split screen for easy multitasking. |
 | [Sizzy](https://sizzy.co/) | Chromium | Windows, macOS, Linux | Development-focused browser with modern CI/CD-like features. |
