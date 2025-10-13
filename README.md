@@ -8,7 +8,7 @@ An extensive, curated, and almost full list of all Desktop Web Browsers.
 > Please note down that not all browsers in the list are recommended for daily use.
 
 <div align="center">
-<img src="https://nerdyslacker.github.io/desktop-web-browsers/media/dino.png" width="200"/>
+<img src="https://harys722.github.io/web-browsers/media/dino.png" width="200"/>
 </div>
 
 [0-9](#0-9) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
@@ -536,6 +536,7 @@ Additional utilities that enhance browser management and user experience.
 - [CostcoFanboy](https://github.com/CostcoFanboy)
 - [anuragrao04](https://github.com/anuragrao04)
 - [niutech](https://github.com/niutech)
+- [harys722](https://github.com/harys722)
 
 ---
 
