@@ -102,7 +102,6 @@ A collection of browsers named starting from C.
 | [Chromium-Gost](https://github.com/deemru/Chromium-Gost) | V8, Blink | Windows, Linux, macOS | Open-source with GOST algorithm support |
 | [Chromnius](https://www.chromnius.com/) | Blink | Windows | Cross-platform browser |
 | [Citrio Browser](http://citrio.com/) | Chromium | Windows, macOS | Fast, polished browser *(considered as malware)* |
-| [Cliqz](https://cliqz.com/en/desktop) | Gecko | Windows, macOS, Linux, RISC OS | Privacy-oriented web browser and search engine |
 | [Cốc Cốc Browser](https://coccoc.com/en) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows | Chrome-based browser |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, Linux, macOS | Fast, efficient, and uncluttered |
