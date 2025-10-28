@@ -102,7 +102,6 @@ A collection of browsers named starting from C.
 | [Chromium-Gost](https://github.com/deemru/Chromium-Gost) | V8, Blink | Windows, Linux, macOS | Open-source with GOST algorithm support |
 | [Citrio Browser](http://citrio.com/) | Chromium | Windows, macOS | Fast, polished browser *(considered as malware)* |
 | [Cốc Cốc Browser](https://coccoc.com/en) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
-| [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows | Chrome-based browser |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, Linux, macOS | Fast, efficient, and uncluttered |
 | [Comet](https://www.perplexity.ai/comet) | Chromium | Windows, macOS | A Browser for Agentic Search by Perplexity |
 | [Comodo Dragon](https://browser.comodo.com/) | Blink | Windows, macOS, Linux | Faster, better than Chrome |
