@@ -391,6 +391,7 @@ A curated collection of browsers named starting from S.
 | [Shift](https://tryshift.com/) | Electron | Windows, macOS | Desktop app for streamlining workflows |
 | [Sidekick Browser](https://www.meetsidekick.com/) | Blink | Windows, macOS, Linux | Privacy browser for focus and time-saving **[Discontinued]** |
 | [Sielo Browser](https://sielo.app/en/index.html) | Blink | Windows, macOS, Linux | Traditional web browser with tab spaces functionality. **[Archived]** |
+| [Sigma AI Browser](https://www.sigmabrowser.com/) | WebKit | macOS | AI-First Agentic Browser that works for you. |
 | [SigmaOS Browser](https://beta.sigmaos.com/) | WebKit+ | macOS | Offers split screen for easy multitasking. |
 | [Sizzy](https://sizzy.co/) | Chromium | Windows, macOS, Linux | Development-focused browser with modern CI/CD-like features. |
 | [Skye](https://github.com/skyebrowser/skye) | Electron | Windows, Linux, macOS | Modern and feature-rich web browser. |
