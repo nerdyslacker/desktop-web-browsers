@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `255`** 
+**Total Count: `258`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
