@@ -96,6 +96,7 @@ A collection of browsers named starting from C.
 | [Catsxp Browser](https://www.catsxp.com/) | Chromium | Windows | Chrome kernel enhanced browser |
 | [CCleaner Browser](https://www.ccleaner.com/ccleaner/browser) | Chromium | Windows | The fast, private and secure browser |
 | [CentBrowser](https://www.centbrowser.com/) | Chromium | Windows | Enhanced Chromium-based |
+| [ChatGPT Atlas](https://chatgpt.com/atlas/) | Chromium | macOS | An AI-powered web browser by ChatGPT. |
 | [Chawan](https://sr.ht/~bptato/chawan/) | Custom | Linux, BSD | A web browser for your terminal |
 | [Chedot](http://lp.chedot.com/) | Chromium | Windows | Built for speed, simplicity, and security |
 | [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Windows, Linux, macOS, BSD | Open-source browser project |
@@ -177,6 +178,7 @@ A curated collection of browsers named starting from G.
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="G"></a> [Gener8 Browser](https://gener8ads.com/products/browser) | Chromium | Windows | Earn from your browsing |
+| [Genspark AI Browser](https://www.genspark.ai/browser) | Chromium | Windows, macOS | Lightning Fast, On-Device Free AI, Ad-Blocking, Full Agentic, Autopilot Mode, MCP Store, and Super Agent That Does Everything for You! |
 | [Ghost Browser](https://ghostbrowser.com/) | Chromium | Windows, macOS | Designed to boost productivity |
 | [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | Gecko | Windows, macOS, Linux | Blocks ads, trackers & other pop-ups **[Discontinued]** |
 | [Glow Browser](https://github.com/revblaze/Glow) | WebKit | macOS | Light-weight web browser |
@@ -391,6 +393,7 @@ A curated collection of browsers named starting from S.
 | [Shift](https://tryshift.com/) | Electron | Windows, macOS | Desktop app for streamlining workflows |
 | [Sidekick Browser](https://www.meetsidekick.com/) | Blink | Windows, macOS, Linux | Privacy browser for focus and time-saving **[Discontinued]** |
 | [Sielo Browser](https://sielo.app/en/index.html) | Blink | Windows, macOS, Linux | Traditional web browser with tab spaces functionality. **[Archived]** |
+| [Sigma AI Browser](https://www.sigmabrowser.com/) | WebKit | macOS | AI-First Agentic Browser that works for you. |
 | [SigmaOS Browser](https://beta.sigmaos.com/) | WebKit+ | macOS | Offers split screen for easy multitasking. |
 | [Sizzy](https://sizzy.co/) | Chromium | Windows, macOS, Linux | Development-focused browser with modern CI/CD-like features. |
 | [Skye](https://github.com/skyebrowser/skye) | Electron | Windows, Linux, macOS | Modern and feature-rich web browser. |
