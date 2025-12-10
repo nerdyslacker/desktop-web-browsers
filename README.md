@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `258`** 
+**Total Count: `259`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -296,6 +296,7 @@ A curated collection of browsers named starting from N.
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="N"></a> [Naver Whale Browser](https://whale.naver.com/en/) | Blink, WebKit (iOS) | Windows, macOS, Linux | Chromium-based web browser |
+| [Neo](https://neobrowser.ai/) | Chromium | Windows, macOS | An AI browser made by Norton. |
 | [Neriven](https://www.neriven.co.uk/) | Chromium | Windows, macOS | Smart browser with easy automation |
 | [Netscape](https://isp.netscape.com/) | Chromium | Windows | Chromium-based browser with AOL search engine |
 | [NetSurf](https://www.netsurf-browser.org/) | own engine | RISC OS, AmigaOS, Windows, Linux/Unix-like, BeOS/Haiku, Atari TOS, macOS | Open-source web browser |
