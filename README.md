@@ -424,6 +424,7 @@ A curated collection of browsers named starting from T.
 |--------------|--------|-------------------|-------------|
 | <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Tesla Browser](https://www.teslabrowser.com/en) | Blink | Windows | Quick, easy, and secure web browser. |
+| [Torch Browser](https://www.https://torchbrowser.com/) | Chromium | Windows, macOS | Web browser with built-in media downloading and torrent support. |
 | [The Classic Browser](https://theclassictools.com/) | Chromium | Windows | Uses Chromium renderer for a faster, safer web browser with its own interface and number-crunching routines. |
 | [theWeb](https://github.com/vicr123/theweb) | QtWebEngine | Windows, macOS, Linux | A web browser. |
 | [Thorium Browser](https://thorium.rocks/) | Blink | Linux, MacOS, Raspberry Pi, Windows | Fastest Chromium fork, named after radioactive element No. 90. |
