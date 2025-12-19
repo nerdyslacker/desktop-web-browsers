@@ -273,7 +273,8 @@ A curated collection of browsers named starting from M.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="M"></a> [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux | Browser with blockchain app support |
+| <a id="M"></a> [Marble](https://github.com/NetworkNeighborhood/Marble) | Gecko | Windows, macOS, Linux | Marble aims to restore the Photon style & layout for various platforms. |
+| [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux | Browser with blockchain app support |
 | [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux | Fastest Firefox fork |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | Blink, V8 | Windows, macOS, Linux | Cross-platform web browser by Microsoft |
 | [Midori Browser](https://astian.org/midori-browser-desktop/) | Electron | Linux, Windows, macOS | Fast and secure light web browser |
@@ -446,6 +447,7 @@ A curated collection of browsers named starting from U.
 | [Undetectable Browser](https://undetectable.io/) | Blink | Windows, macOS | Anti-detect browser for easy multi-accounting in social networks. |
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Blink, V8 | Windows, macOS, Linux, BSD | Free and open-source Chromium variant without Google-specific web services. |
 | [Unstoppable Blockchain Browser](https://github.com/unstoppabledomains/unstoppable-demo-browser) | Electron | Windows, macOS | Web browser for browsing the decentralized web. **[Archived]** |
+| [UC Browser](https://www.ucweb.com/) | Chromium | Windows, macOS | UC Browser is a fast and safe web browser for PC, Mac, and mobile. |
 | [UR Browser](https://www.ur-browser.com/en-US) | Blink | Windows | Fast, free browser respecting user privacy. 100% European with built-in VPN and ad blocker. |
 | [Uzbl Browser](https://www.uzbl.org/) | WebKit | Unix-like (Linux, *BSD, Solaris, AIX, MacOS...) | Free, open-source minimalist browser adhering to Unix philosophy. **[Discontinued]** |
 
