@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `259`** 
+**Total Count: `266`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -51,6 +51,7 @@ A curated collection of the browsers named starting from A.
 | [Avast Secure Browser](https://www.avast.com/secure-browser#pc) | Chromium | Windows, macOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc) | Chromium | Windows, macOS | Secure browser for online privacy |
 | [AWBfL](https://sources.vsta.org:7100/awbfl/index) | Webkit2 | Linux | Webkit2 browser coded in vala |
+| [Axonium](https://axonium.fr) | WebKit | macOS | Zero telemetry, built-in ad blocker, and an interface designed for productivity |
 | [AXplorer](https://axia.global/axplorer) | Chromium | Windows, macOS, Linux | Use-to-earn, private, fast browser |
 
 ---
@@ -167,7 +168,8 @@ A curated collection of browsers named starting from F.
 | [FixBrowser](https://www.fixbrowser.org/) | Custom | Windows, Linux, HaikuOS | A truly lightweight web browser created from scratch |
 | [Flash Browser](https://flash.pm/browser/) | Chromium | Windows | Small browser for embedded flash content |
 | [Floorp Browser](https://floorp.app/) | Gecko | Windows, Linux, macOS | Rapid release browser |
-| [Flow Browser](https://www.ekioh.com/flow-browser/) | Proprietary | Windows, macOS, Linux | Browser with proprietary engine |
+| [Flow Browser](https://flow-browser.com/) | Chromium | Windows, macOS, Linux | A modern, privacy-focused browser with a minimalistic design that supports all your web-browsing needs. |
+| [Flow Browser (ekioh)](https://www.ekioh.com/flow-browser/) | Proprietary | Windows, macOS, Linux | Browser with proprietary engine |
 
 ---
 
@@ -384,6 +386,7 @@ A curated collection of browsers named starting from S.
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="S"></a> [Safari](https://www.apple.com/am/safari/) | WebKit, Nitro | macOS | Apple's web browser |
+| [Samsung Internet](https://browser.samsung.com/beta) | - | Windows | Enjoy easy, fast and secure web surfing |
 | [Sanbrowser](https://www.sanbrowser.com/) | Chromium | Windows, macOS | Dual-core browser |
 | [Sandcat Browser](https://www.syhunt.com/sandcat/) | Edge WebView2/Chromium | Windows | Browser for pen-testers and web developers |
 | [SeaLion](https://github.com/wicknix/SeaLion) | Gecko | macOS | Web browser for Mac OS X and Linux |
@@ -424,7 +427,8 @@ A curated collection of browsers named starting from T.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
+| <a id="T"></a> [Taktak](https://taktak.com/) | Chromium | Windows, macOS, Linux | The only AI browser you need |
+| [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Tesla Browser](https://www.teslabrowser.com/en) | Blink | Windows | Quick, easy, and secure web browser. |
 | [Torch Browser](https://www.https://torchbrowser.com/) | Chromium | Windows, macOS | Web browser with built-in media downloading and torrent support. |
 | [The Classic Browser](https://theclassictools.com/) | Chromium | Windows | Uses Chromium renderer for a faster, safer web browser with its own interface and number-crunching routines. |
