@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `266`** 
+**Total Count: `270`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -45,6 +45,7 @@ A curated collection of the browsers named starting from A.
 | [AOL Shield Pro Browser](https://www.aol.com/products/browsers/shield-pro) | Chromium | Windows | Enhanced safety features help keep you protected from hackers, malware and scam websites. |
 | [Arc Browser](https://arc.net/) | Blink, V8 | Windows, macOS | Revolutionary, user-centric browser |
 | [Arctic Fox Web Browser](https://github.com/rmottola/Arctic-Fox) | Goana, SpiderMonkey | Mac OS X 10.6+, Linux, BSD, Windows XP | Fork of Pale Moon 27.9.4 |
+| [Argus](https://argusbrowser.io) | - | macOS | The AI-powered browser built for speed and privacy. |
 | [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) | Gecko | Windows | Standalone application |
 | [Asobi](https://github.com/bdashore3/Asobi) | WebKit | macOS | Minimalist navigation bar browser |
 | [Atom Browser](https://browser.ru/) | Blink | Windows, macOS, Linux | New browser from Mail.ru |
@@ -66,7 +67,7 @@ A curated collection of the browsers named starting from B.
 | [Basilisk Browser](https://www.basilisk-browser.org/) | Goanna | Windows, Linux, macOS, FreeBSD | Free and Open Source XUL-based |
 | [Beacon Browser](https://impervious.com/beacon) | Chromium | Windows, macOS | For decentralized internet |
 | [Beaker Browser](https://github.com/beakerbrowser/beaker) | Blink | Linux, Windows, macOS | Experimental peer-to-peer Web browser **[Archived]** |
-| [Beam](https://www.beamapp.co/) | Webkit | macOS | For healthy thinking on the internet |
+| [Beam](https://github.com/beamlegacy/beam) | Webkit | macOS | For healthy thinking on the internet |
 | [Biscuit](https://eatbiscuit.com/) | WebKit, Blink | macOS, Windows, Linux | Browser to organize your apps |
 | [Blisk](https://blisk.io/) | Chromium | Windows, macOS, Linux | Freemium Chromium-based for Web development |
 | [Blue Hawk](https://tw3.gitlab.io/b/) | QtWebEngine | Windows | Engineered for the modern web |
@@ -103,6 +104,7 @@ A collection of browsers named starting from C.
 | [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Windows, Linux, macOS, BSD | Open-source browser project |
 | [Chromium-Gost](https://github.com/deemru/Chromium-Gost) | V8, Blink | Windows, Linux, macOS | Open-source with GOST algorithm support |
 | [Citrio Browser](http://citrio.com/) | Chromium | Windows, macOS | Fast, polished browser *(considered as malware)* |
+| [Click](https://clickbrowser.app/) | WebKit | macOS | The no-frills browser |
 | [Cốc Cốc Browser](https://coccoc.com/en) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, Linux, macOS | Fast, efficient, and uncluttered |
 | [Comet](https://www.perplexity.ai/comet) | Chromium | Windows, macOS | A Browser for Agentic Search by Perplexity |
@@ -307,6 +309,7 @@ A curated collection of browsers named starting from N.
 | [Nexus Browser](https://github.com/makdosx/nexus-browser) | Electron | Windows | Private browser |
 | [Ninetails](https://github.com/MystPi/ninetails) | Electron | Windows, Linux, macOS | Private, fast, and beautiful web browser |
 | [Ninja Browser](https://github.com/octalmage/Ninja-Browser) | WebKit | macOS | A browser for ninjas? |
+| [Nook Browser](https://browsewithnook.com) | WebKit | macOS | The memory of web browsing being quick and easy lives with us all. |
 | [Norton Private Browser](https://us.norton.com/products/norton-private-browser) | Chromium | Windows, macOS | A free, more private browser that provides protection for your digital life. |
 | [nOS](https://nos.io/) | Electron | Windows, macOS | Access the crypto-powered web |
 | [Nyxt browser](https://nyxt.atlas.engineer/) | WebKit, QtWebEngine | Windows, macOS, Linux | Keyboard-driven web browser |
@@ -326,6 +329,7 @@ A curated collection of browsers named starting from O.
 | [Opera Crypto Browser](https://www.opera.com/crypto/next) | Blink, V8 | Windows, macOS | Browser for Web3 experience **[Discontinued]** |
 | [Orbitum Browser](https://orbitum.com/) | Chromium | Windows | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | macOS | Fast, private browser |
+| [Ortix Browser](https://systembionic.com/ortix) | WebKit | macOS | A fast, private, macOS native browser with on-device AI |
 | [ōryōki](http://oryoki.io/) | Chromium | macOS | Experimental browser with thin interface |
 | [Otter Browser](https://otter-browser.org/) | Qt WebEngine, QtWebKit | Unix-like, Windows, Haiku, RISC OS, OS/2 | Aims to recreate classic Opera features |
 
