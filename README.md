@@ -491,7 +491,7 @@ A curated collection of browsers named starting from W.
 | [WebBuddy](https://bigbearlabs.com/webbuddy/) | WebKit | macOS | In-App Browser for Mac Apps. |
 | [Webian Shell](https://webian.org/) | Gecko | Windows, Linux | Browser-based operating system UI for web use. |
 | [WebNet Official](https://web-net.ml/download/) | Chromium | Windows, macOS | Fast, reliable Chromium Web Browser that doesn't track users. |
-| [WebSM Browser](https://github.com/v38armageddon/WebSM) | Microsoft WebView2 | Microsoft Windows | Simple, minimalist UWP-based web browser. |
+| [WebSM](https://github.com/v38armageddon/WebSM) | Microsoft WebView2, WebKit | Windows, Linux | Simple, minimalist Uno Platform based web browser. |
 | [Wexond Browser](https://github.com/wexond/browser-base) | Electron | Windows, macOS, Linux | Modern browser built with Electron and React. **[Archived]** |
 
 ---
