@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `270`** 
+**Total Count: `271`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -28,7 +28,7 @@ Browsers with names starting with numbers, often representing company identifier
 
 ---
 
-## A — Browsers Named A
+## A — A Named Browsers
 
 A curated collection of the browsers named starting from A.
 
@@ -184,6 +184,7 @@ A curated collection of browsers named starting from G.
 | [Genspark AI Browser](https://www.genspark.ai/browser) | Chromium | Windows, macOS | Lightning Fast, On-Device Free AI, Ad-Blocking, Full Agentic, Autopilot Mode, MCP Store, and Super Agent That Does Everything for You! |
 | [Ghost Browser](https://ghostbrowser.com/) | Chromium | Windows, macOS | Designed to boost productivity |
 | [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | Gecko | Windows, macOS, Linux | Blocks ads, trackers & other pop-ups **[Discontinued]** |
+| [Glide Browser](https://glide-browser.app/) | Gecko | Linux, Windows, macOS | An extensible and keyboard-focused web browser |
 | [Glow Browser](https://github.com/revblaze/Glow) | WebKit | macOS | Light-weight web browser |
 | [Google Chrome](https://www.google.com/chrome/) | Blink (WebKit on iOS), V8 | Linux, Windows, macOS, ChromeOS | Cross-platform web browser by Google |
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/) | Gecko | Linux, Windows, macOS | GNU version of Firefox |
