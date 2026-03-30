@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `271`** 
+**Total Count: `272`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -23,6 +23,7 @@ Browsers with names starting with numbers, often representing company identifier
 |--------------|--------|-------------------|-------------|
 | <a id="0-9"></a> [115 Browser](https://pc.115.com/browser.html) | Blink, WebKit | Windows, macOS | Developed by 115.com |
 | [2345 Explorer](https://ie.2345.cc/) | Trident, WebKit, Blink | Windows | Developed by 2345.com |
+| [360 AI Browser](https://browser.360.cn/ai/) | Blink, Trident | Windows, Mac OS | A web browser with integrated AI features |
 | [360 Secure Browser](https://browser.360.cn/se/en.html) | Blink, Trident | Windows, Mac OS | Freeware browser by Qihu 360 Software |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html) | Blink, Trident | Windows, macOS | Another version from Qihu |
 
@@ -326,7 +327,7 @@ A curated collection of browsers named starting from O.
 | <a id="O"></a> [OhHai Browser](https://ohhaibrowser.com/) | Blink | Windows | Browser with left-panel tabs |
 | [Opera](https://www.opera.com/) | Blink, V8 | Windows, macOS, Linux, FreeBSD, Nintendo | Fast, efficient browser with built-in features |
 | [Opera Air](https://www.opera.com/air) | Blink, V8 | Windows | Discover a focused, balanced, and stress-free web |
-| [Opera GX](https://www.opera.com/gx) | Blink, V8 | Windows, macOS | Browser built for gamers |
+| [Opera GX](https://www.opera.com/gx) | Blink, V8 | Windows, macOS, Linux | Browser built for gamers |
 | [Opera Crypto Browser](https://www.opera.com/crypto/next) | Blink, V8 | Windows, macOS | Browser for Web3 experience **[Discontinued]** |
 | [Orbitum Browser](https://orbitum.com/) | Chromium | Windows | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | macOS | Fast, private browser |
