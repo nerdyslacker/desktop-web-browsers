@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `272`** 
+**Total Count: `273`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -395,6 +395,7 @@ A curated collection of browsers named starting from S.
 | [Samsung Internet](https://browser.samsung.com/beta) | - | Windows | Enjoy easy, fast and secure web surfing |
 | [Sanbrowser](https://www.sanbrowser.com/) | Chromium | Windows, macOS | Dual-core browser |
 | [Sandcat Browser](https://www.syhunt.com/sandcat/) | Edge WebView2/Chromium | Windows | Browser for pen-testers and web developers |
+| [Santa Browser](https://www.santabrowser.com/) | Chromium | Windows, macOS | The Browser That Keeps Giving |
 | [SeaLion](https://github.com/wicknix/SeaLion) | Gecko | macOS | Web browser for Mac OS X and Linux |
 | [SeaMonkey Browser](https://www.seamonkey-project.org/) | Gecko, SpiderMonkey | Windows, macOS, Linux | Free web browser suite |
 | [SEOBrowse](https://seobrowse.com/) | Chromium | Windows, macOS | Browse search results for any location |
