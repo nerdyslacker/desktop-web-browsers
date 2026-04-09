@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `273`** 
+**Total Count: `275`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -172,6 +172,7 @@ A curated collection of browsers named starting from F.
 | [Floorp Browser](https://floorp.app/) | Gecko | Windows, Linux, macOS | Rapid release browser |
 | [Flow Browser](https://flow-browser.com/) | Chromium | Windows, macOS, Linux | A modern, privacy-focused browser with a minimalistic design that supports all your web-browsing needs. |
 | [Flow Browser (ekioh)](https://www.ekioh.com/flow-browser/) | Proprietary | Windows, macOS, Linux | Browser with proprietary engine |
+| [Free Adblock Browser](https://freeadblockerbrowser.com/) | - | Windows | Browse securely on a clean, incognito search engine |
 
 ---
 
@@ -349,6 +350,7 @@ A curated collection of browsers named starting from P.
 | [Pissandshittium](https://pissandshittium.org/) | Chromium | Windows, Linux | The Browser that doesn't give a shit |
 | [PlasmaFox Browser](https://github.com/torvic9/plasmafox) | Gecko | Linux | Modified Firefox with KDE features **[Archived]** |
 | [Pocket Browser](https://github.com/PocketStudios/Pocket-Browser) | Electron | Windows, macOS, Linux | Open-source browser for privacy |
+| [Pola Browser](https://polabrowser.com/) | WebKit | macOS | Designed for organized workflows, smart tab management, and distraction-free browsing |
 | [Polarity Browser](https://polaritybrowser.netlify.app/) | Chromium, Trident | Windows | Feature packed, fast, secure, stable |
 | [PolyBrowser](https://github.com/PolySuite/PolyBrowser) | Electron | Windows, macOS, Linux | The "Panoramic" Web Browser |
 | [Polypane](https://polypane.app/) | Chromium | Windows, macOS, Linux | Browser for web developers and designers |
