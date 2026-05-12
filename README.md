@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `275`** 
+**Total Count: `277`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -81,6 +81,7 @@ A curated collection of the browsers named starting from B.
 | [BrowserBox](https://github.com/BrowserBox/BrowserBox) | Chromium | Web | Browse the whole web from a web page. Remote browser isolation. |
 | [BrowserJet](https://browserjet.com/) | Chromium | Windows, macOS | Multiple sessions with built-in multiple IPs |
 | [Browsh](https://www.brow.sh/) | Gecko | Linux, macOS, Windows | Fully-modern text-based browser |
+| [Bushido Broswer](https://www.bushido-browser.app/) | Chromium | Windows | Beautifully minimal, privacy-focused, & packed with features. **[Coming Soon]** |
 
 ---
 
@@ -106,6 +107,7 @@ A collection of browsers named starting from C.
 | [Chromium-Gost](https://github.com/deemru/Chromium-Gost) | V8, Blink | Windows, Linux, macOS | Open-source with GOST algorithm support |
 | [Citrio Browser](http://citrio.com/) | Chromium | Windows, macOS | Fast, polished browser *(considered as malware)* |
 | [Click](https://clickbrowser.app/) | WebKit | macOS | The no-frills browser |
+| [Cloak Browser](https://cloakbrowser.dev/) | Chromium | Windows, Linux, macOS | Stealth Chromium that passes every bot detection test |
 | [Cốc Cốc Browser](https://coccoc.com/en) | Blink | macOS, Windows | Full-fledged browser with intuitive search engine |
 | [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, Linux, macOS | Fast, efficient, and uncluttered |
 | [Comet](https://www.perplexity.ai/comet) | Chromium | Windows, macOS | A Browser for Agentic Search by Perplexity |
