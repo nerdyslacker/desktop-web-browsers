@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `277`** 
+**Total Count: `278`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -246,6 +246,7 @@ A curated collection of browsers named starting from K.
 | [K-browser](https://k-browser.com/) | Trident | Windows | A simple lightweight browser |
 | [Kingpin Browser](https://kingpinbrowser.com/) | Chromium | Windows, macOS | Full-featured browser with incognito mode |
 | [kristall](https://kristall.random-projects.net/) | Custom | Windows, macOS, Linux, BSD | Browser without support for css/js/wasm |
+| [Konform Browser](https://konform-browser.codeberg.page/) | Gecko | Linux | Taking privacy, security and freedom to the next level |
 | [Konqueror](https://apps.kde.org/konqueror/) | KHTML, WebKit | Linux, Unix-like | KDE's Webbrowser and file manager |
 | [Kosmik](https://www.kosmik.app) | Electron | Windows, macOS | For visual inspiration and notes |
 | [K-Meleon](http://kmeleonbrowser.org/) | Goanna | Windows | Lightweight, customizable, open-source |
