@@ -306,7 +306,8 @@ A curated collection of browsers named starting from N.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="N"></a> [Naver Whale Browser](https://whale.naver.com/en/) | Blink, WebKit (iOS) | Windows, macOS, Linux | Chromium-based web browser |
+| <a id="N"></a> [Nav0](https://nav0.org/) | Electron | Windows, macOS, Linux | Minimal, privacy-focused web browser |
+| [Naver Whale Browser](https://whale.naver.com/en/) | Blink, WebKit (iOS) | Windows, macOS, Linux | Chromium-based web browser |
 | [Neo](https://neobrowser.ai/) | Chromium | Windows, macOS | An AI browser made by Norton. |
 | [Neriven](https://www.neriven.co.uk/) | Chromium | Windows, macOS | Smart browser with easy automation |
 | [Netscape](https://isp.netscape.com/) | Chromium | Windows | Chromium-based browser with AOL search engine |
