@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `278`** 
+**Total Count: `280`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -359,6 +359,7 @@ A curated collection of browsers named starting from P.
 | [PolyBrowser](https://github.com/PolySuite/PolyBrowser) | Electron | Windows, macOS, Linux | The "Panoramic" Web Browser |
 | [Polypane](https://polypane.app/) | Chromium | Windows, macOS, Linux | Browser for web developers and designers |
 | [Power Browser](https://powerdao.ai/features/) | Chromium | Windows, Linux | Designed for web3 aspirations |
+| [PowerFox Browser](https://github.com/Jazzzny/powerfox-browser) | Goanna | macOS | A secure, modern, and open-source web browser for Mac OS X 10.6, 10.5, and 10.4 for Intel and PowerPC |
 | [Programmer Browser](https://github.com/yessGlory17/programmer-browser) | Electron | Windows, Linux | Fast-searching browser for programmers |
 | [Puffin Browser](https://www.puffin.com/) | Blink | Windows, macOS TV, Linux | Remote browser by CloudMosa |
 | [Pulse Browser](https://pulsebrowser.app/) | Gecko | Windows, macOS, Linux | Experimental Firefox fork |
