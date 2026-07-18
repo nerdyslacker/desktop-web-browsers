@@ -133,7 +133,7 @@ A curated collection of browsers named starting from D.
 | [dBrowser](https://github.com/dBrowser/dbrowser) | Electron | Windows, macOS, Linux | Web browser for Web3 |
 | [Decentr Browser](https://decentr.net/) | WebKit, Blink | Windows, macOS, Linux | Web3 blockchain/metaverse browser |
 | [Dezor](https://www.dezor.net/) | Chromium | Windows, Linux | Browser including VPN & Adblocker |
-| [Dia](https://www.diabrowser.com/) | Chromium | Windows, macOS, Linux | AI won't exist as an app. Or a button. We believe it'll be an entirely new environment — built on top of a web browser. **[Coming Soon]** |
+| [Dia](https://www.diabrowser.com/) | Chromium | Windows, macOS, Linux | AI won't exist as an app. Or a button. We believe it'll be an entirely new environment — built on top of a web browser. |
 | [Dillo Browser](https://dillo-browser.github.io/) | Proprietary | Linux, BSD, OS X, FreeDOS | Multi-platform graphical web browser |
 | [Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) | Chromium | Windows, macOS, Linux | Blocks Big Tech ads and trackers |
 | [Dooble Browser](https://textbrowser.github.io/dooble/) | Dooble | FreeBSD, Linux, macOS, Windows | Free and open-source web browser |
