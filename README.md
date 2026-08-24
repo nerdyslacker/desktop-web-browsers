@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `280`** 
+**Total Count: `284`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -69,6 +69,7 @@ A curated collection of the browsers named starting from B.
 | [Beacon Browser](https://impervious.com/beacon) | Chromium | Windows, macOS | For decentralized internet |
 | [Beaker Browser](https://github.com/beakerbrowser/beaker) | Blink | Linux, Windows, macOS | Experimental peer-to-peer Web browser **[Archived]** |
 | [Beam](https://github.com/beamlegacy/beam) | Webkit | macOS | For healthy thinking on the internet |
+| [Beaver Browser](https://webbeef.org) | Servo | macOS, Linux | Rewild Your Web |
 | [Biscuit](https://eatbiscuit.com/) | WebKit, Blink | macOS, Windows, Linux | Browser to organize your apps |
 | [Blisk](https://blisk.io/) | Chromium | Windows, macOS, Linux | Freemium Chromium-based for Web development |
 | [Blue Hawk](https://tw3.gitlab.io/b/) | QtWebEngine | Windows | Engineered for the modern web |
@@ -207,6 +208,7 @@ A curated collection of browsers named starting from H.
 | [Helium Browser](https://helium.computer/) | Electron | Windows, macOS, Linux | Private, fast, and honest web browser |
 | [Helix](https://github.com/pulse-browser/experiment) | Gecko | Windows, Linux, macOS | Just another Gecko browser. **[Experimental]** |
 | [Herond Browser](https://herond.org/) | Chromium | Windows, macOS | Embrace an uninterrupted, ad-free experience, and navigate effortlessly across all your devices with ease |
+| [Hermes Browser](https://kaykcaputo.github.io/hermes-browser) | Servo | Linux | A focused browser, built on a different engine |
 | [Hola Browser](https://hola.org/browser) | Blink | Windows | Browser for borderless experience |
 | [Horse Browser](https://gethorse.com) | Chromium | Windows, macOS, Linux | The browser built for professionals who demand focus and efficiency |
 | [Huawei Browser](https://consumer.huawei.com/cn/mobileservices/browser/) | Chromium | Windows | Built-in powerful privacy protection technology, including intelligent anti-tracking, malicious URL blocking, ad filtering |
@@ -443,6 +445,7 @@ A curated collection of browsers named starting from T.
 |--------------|--------|-------------------|-------------|
 | <a id="T"></a> [Taktak](https://taktak.com/) | Chromium | Windows, macOS, Linux | The only AI browser you need |
 | [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
+| [Terminal Browser](https://terminal-browser.com) | Chromium | macOS, Linux | A browser that runs directly inside your terminal |
 | [Tesla Browser](https://www.teslabrowser.com/en) | Blink | Windows | Quick, easy, and secure web browser. |
 | [Torch Browser](https://torchbrowser.com/) | Chromium | Windows, macOS | Web browser with built-in media downloading and torrent support. |
 | [The Classic Browser](https://theclassictools.com/) | Chromium | Windows | Uses Chromium renderer for a faster, safer web browser with its own interface and number-crunching routines. |
@@ -535,6 +538,7 @@ A curated collection of browsers named starting from Z.
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="Z"></a> [Zen Browser](https://zen-browser.app/) | Gecko | Windows, macOS, Linux | Privacy-focused browser for tranquil web browsing. |
+| [Zervo](https://github.com/goddv/Zervo) | Servo | Windows, macOS, Linux | A calm, workspace-oriented browser built on the Servo engine. |
 
 [0-9](#0-9) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
