@@ -41,7 +41,7 @@ A curated collection of the browsers named starting from A.
 | [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) | Electron | Windows, Linux, macOS | Minimal browser for distributed web |
 | [Airy](https://tryairy.com) | Chromium | Windows, macOS | Efficiency side browser tool |
 | [Alloy Browser](https://alloy.simoncaminada.ch/) | WebKit | macOS | Web browser for power users |
-| [Aloha Browser](https://alohabrowser.com/pc/) | WebKit, Blink | Windows | Fast, free, full-featured browser |
+| [Aloha Browser](https://alohabrowser.com/) | WebKit, Blink | Windows, macOS, Linux | Fast, free, full-featured browser |
 | [AMP Browser](https://ampbrowser.com/) | Chromium | Windows, Ubuntu | Open source, accelerates web browsing |
 | [AOL Shield Pro Browser](https://www.aol.com/products/browsers/shield-pro) | Chromium | Windows | Enhanced safety features help keep you protected from hackers, malware and scam websites. |
 | [Arc Browser](https://arc.net/) | Blink, V8 | Windows, macOS | Revolutionary, user-centric browser |
@@ -133,7 +133,7 @@ A curated collection of browsers named starting from D.
 | <a id="D"></a> [Dashob](https://dashob.com/) | Electron | Windows, macOS, Linux | Create limitless boards with web pages |
 | [dBrowser](https://github.com/dBrowser/dbrowser) | Electron | Windows, macOS, Linux | Web browser for Web3 |
 | [Decentr Browser](https://decentr.net/) | WebKit, Blink | Windows, macOS, Linux | Web3 blockchain/metaverse browser |
-| [Dezor](https://www.dezor.net/) | Chromium | Windows, Linux | Browser including VPN & Adblocker |
+| [Dezor](https://www.dezor.net/) | Chromium | Windows, macOS, Linux | Browser including VPN & Adblocker |
 | [Dia](https://www.diabrowser.com/) | Chromium | Windows, macOS, Linux | AI won't exist as an app. Or a button. We believe it'll be an entirely new environment — built on top of a web browser. **[Coming Soon]** |
 | [Dillo Browser](https://dillo-browser.github.io/) | Proprietary | Linux, BSD, OS X, FreeDOS | Multi-platform graphical web browser |
 | [Dissenter Browser](https://github.com/gab-ai-inc/defiant-browser) | Chromium | Windows, macOS, Linux | Blocks Big Tech ads and trackers |
@@ -288,7 +288,7 @@ A curated collection of browsers named starting from M.
 | [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux | Browser with blockchain app support |
 | [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux | Fastest Firefox fork |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | Blink, V8 | Windows, macOS, Linux | Cross-platform web browser by Microsoft |
-| [Midori Browser](https://astian.org/midori-browser-desktop/) | Electron | Linux, Windows, macOS | Fast and secure light web browser |
+| [Midori Browser](https://astian.org/midori-browser) | Gecko | Linux, Windows, macOS | Fast and secure light web browser |
 | [MilkShake](https://milkshake.netlify.app/) | Electron | Windows, macOS, Linux | Simple web browser with only one tab |
 | [Min Browser](https://minbrowser.org/) | Blink, Electron | Windows, macOS, Linux | Fast, minimal browser |
 | [Minichrome Browser](https://github.com/cprussin/minichrome) | Blink (Based on Electron) | Linux | Minimalistic web browser |
@@ -363,7 +363,7 @@ A curated collection of browsers named starting from P.
 | [Power Browser](https://powerdao.ai/features/) | Chromium | Windows, Linux | Designed for web3 aspirations |
 | [PowerFox Browser](https://github.com/Jazzzny/powerfox-browser) | Goanna | macOS | A secure, modern, and open-source web browser for Mac OS X 10.6, 10.5, and 10.4 for Intel and PowerPC |
 | [Programmer Browser](https://github.com/yessGlory17/programmer-browser) | Electron | Windows, Linux | Fast-searching browser for programmers |
-| [Puffin Browser](https://www.puffin.com/) | Blink | Windows, macOS TV, Linux | Remote browser by CloudMosa |
+| [Puffin Browser](https://www.puffin.com/) | Blink | Windows, macOS, Linux | Remote browser by CloudMosa |
 | [Pulse Browser](https://pulsebrowser.app/) | Gecko | Windows, macOS, Linux | Experimental Firefox fork |
 
 ---
@@ -377,7 +377,7 @@ A curated collection of browsers named starting from Q.
 | <a id="Q"></a> [Qinghu Browser](https://www.xiaohu360.cn/) | Chromium | Windows, macOS | New generation browser for e-commerce |
 | [QQ Browser](https://browser.qq.com/) | WebKit, Trident | Windows, macOS | Web browser by Tencent |
 | [QtWeb Internet Browser](http://www.qtweb.net/) | WebKit | Windows, macOS, Linux | Lightweight, secure and portable **[Discontinued]** |
-| [Quetta Browser](https://www.quetta.net/) | Chromium | Windows, macOS | Your online privacy isn't an option, it's our foundation. **[Coming Soon]** |
+| [Quetta Browser](https://www.quetta.net/) | Chromium | Windows, macOS | Your online privacy isn't an option, it's our foundation. |
 | [qutebrowser](https://qutebrowser.org/) | WebKit/QtWebEngine | Linux, Windows, macOS, FreeBSD, OpenBSD | Keyboard-focused browser |
 
 ---
