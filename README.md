@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `288`** 
+**Total Count: `296`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -50,8 +50,10 @@ A curated collection of the browsers named starting from A.
 | [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) | Gecko | Windows | Standalone application |
 | [Asobi](https://github.com/bdashore3/Asobi) | WebKit | macOS | Minimalist navigation bar browser |
 | [Atom Browser](https://browser.ru/) | Blink | Windows, macOS, Linux | New browser from Mail.ru |
+| [Avant Browser](https://www.avantbrowser.com/) | Trident, Gecko, Webkit | Windows | Avant Browser is an ultra-fast, three engine web browser. |
 | [Avast Secure Browser](https://www.avast.com/secure-browser#pc) | Chromium | Windows, macOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc) | Chromium | Windows, macOS | Secure browser for online privacy |
+| [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) | Blink | Windows, Mac | Take back control when you're online. |
 | [AWBfL](https://sources.vsta.org:7100/awbfl/index) | Webkit2 | Linux | Webkit2 browser coded in vala |
 | [Axonium](https://axonium.fr) | WebKit | macOS | Zero telemetry, built-in ad blocker, and an interface designed for productivity |
 | [AXplorer](https://axia.global/axplorer) | Chromium | Windows, macOS, Linux | Use-to-earn, private, fast browser |
@@ -71,6 +73,7 @@ A curated collection of the browsers named starting from B.
 | [Beam](https://github.com/beamlegacy/beam) | Webkit | macOS | For healthy thinking on the internet |
 | [Beaver Browser](https://webbeef.org) | Servo | macOS, Linux | Rewild Your Web |
 | [Biscuit](https://eatbiscuit.com/) | WebKit, Blink | macOS, Windows, Linux | Browser to organize your apps |
+| [Blazer Browser](https://blazerbrowser.com/) | Blink | macOS, Windows | Browse Smarter with AI. |
 | [Blisk](https://blisk.io/) | Chromium | Windows, macOS, Linux | Freemium Chromium-based for Web development |
 | [Blue Hawk](https://tw3.gitlab.io/b/) | QtWebEngine | Windows | Engineered for the modern web |
 | [Board Browser](https://boardbrowser.vercel.app/) | Chromium | macOS, Windows, Linux | An open-source browser focused on boards |
@@ -130,7 +133,8 @@ A curated collection of browsers named starting from D.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="D"></a> [Dashob](https://dashob.com/) | Electron | Windows, macOS, Linux | Create limitless boards with web pages |
+| <a id="D"></a> [Dactyloidae](https://dactyloidae.xyz/) | Gecko | Windows | Welcome to the truly independent web. |
+| [Dashob](https://dashob.com/) | Electron | Windows, macOS, Linux | Create limitless boards with web pages |
 | [dBrowser](https://github.com/dBrowser/dbrowser) | Electron | Windows, macOS, Linux | Web browser for Web3 |
 | [Decentr Browser](https://decentr.net/) | WebKit, Blink | Windows, macOS, Linux | Web3 blockchain/metaverse browser |
 | [Dezor](https://www.dezor.net/) | Chromium | Windows, macOS, Linux | Browser including VPN & Adblocker |
@@ -164,9 +168,11 @@ A curated collection of browsers named starting from F.
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="F"></a> [Falkon Browser](https://www.falkon.org/) | QtWebEngine | Windows, Linux | Free and open-source by KDE |
+| [Fast Internet Browser](https://fibrowser.com/) | Blink | Windows | A Modern, Fast Browser Built for Windows. |
 | [FastBack](https://www.studiomee.com/fastback) | WebKit | macOS | Browser that doesn't reload when you go back |
 | [Felida Browser](https://github.com/raluvy95/FelidaBrowser) | Electron | Windows, Linux | A lightweight Chromium Browser using Electron.js! |
 | [Fellou Agentic AI Browser](https://fellou.ai/) | Chromium | Windows, Linux | The world's first agentic AI browser that automates web and desktop-based tasks. |
+| [Ferdium](https://ferdium.org/) | Blink | Windows, macOS, Linux | All your services in one place built by the community. |
 | [Ferny](https://moduleart.github.io/ferny/) | Chromium | Windows, macOS | A privacy-focused, cross-platform, chromium-based web browser with a greatfull user experience, built on top of Electron, JS and styled-components. |
 | [Fifo Browser](https://github.com/snaildos/Fifo-Browser/) | Electron | Windows, macOS, Linux | Modern web browser built on Electron and React |
 | [FireDragon Browser](https://github.com/dr460nf1r3/firedragon-browser) | Gecko | Linux | Fork of LibreWolf with enhanced KDE integration |
@@ -433,6 +439,7 @@ A curated collection of browsers named starting from S.
 | [Stack Browser](https://stackbrowser.com/) | Chromium | Windows, macOS | Spatial browser for mindful online living. |
 | [Station](https://getstation.com/) | Blink | Windows, macOS, Linux | Open-source smart browser for web applications. |
 | [Supermium](https://win32subsystem.live/supermium/) | Chromium | Windows (XP, 7, 8, 10, 11) | Chrome replacement with privacy enhancements. |
+| [Suprow](https://suprow.app/) | Blink | macOS, Windows, Linux | The browser that respects your workflow. |
 | [surf](https://surf.suckless.org/) | WebKitGTK | Unix-like | Minimalist browser controlled via keyboard shortcuts. |
 | [Surf (Deta)](https://deta.surf/) | Chromium | Windows, macOS, Linux | It's a browser, file manager, and AI assistant — all in one. **[Coming Soon]** |
 | [sushi-browser](https://sushib.me/) | Chromium | Windows, macOS, Linux | Multi-panel browser for online casino gaming. |
@@ -446,7 +453,8 @@ A curated collection of browsers named starting from T.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="T"></a> [Taktak](https://taktak.com/) | Chromium | Windows, macOS, Linux | The only AI browser you need |
+| <a id="T"></a> [Tabbit Browser](https://www.tabbit.ai/) | Blink | macOS, Windows | Tabs think. Sites wake. Your Web. |
+| [Taktak](https://taktak.com/) | Chromium | Windows, macOS, Linux | The only AI browser you need |
 | [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Terminal Browser](https://terminal-browser.com) | Chromium | macOS, Linux | A browser that runs directly inside your terminal |
 | [Tesla Browser](https://www.teslabrowser.com/en) | Blink | Windows | Quick, easy, and secure web browser. |
