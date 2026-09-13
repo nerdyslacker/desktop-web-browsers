@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `284`** 
+**Total Count: `288`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -175,6 +175,7 @@ A curated collection of browsers named starting from F.
 | [Floorp Browser](https://floorp.app/) | Gecko | Windows, Linux, macOS | Rapid release browser |
 | [Flow Browser](https://flow-browser.com/) | Chromium | Windows, macOS, Linux | A modern, privacy-focused browser with a minimalistic design that supports all your web-browsing needs. |
 | [Flow Browser (ekioh)](https://www.ekioh.com/flow-browser/) | Proprietary | Windows, macOS, Linux | Browser with proprietary engine |
+| [Free Browser](https://freebrowser.org/) | - | Windows, macOS, Linux | Censorship‑resistant web browser that restores access to the open internet |
 | [Free Adblock Browser](https://freeadblockerbrowser.com/) | - | Windows | Browse securely on a clean, incognito search engine |
 
 ---
@@ -246,6 +247,7 @@ A curated collection of browsers named starting from K.
 |--------------|--------|-------------------|-------------|
 | <a id="K"></a> [Kaktus](https://github.com/azer/kaktus) | Electron | Windows, macOS, Linux | Minimalistic web browser **[Archived]** |
 | [K-browser](https://k-browser.com/) | Trident | Windows | A simple lightweight browser |
+| [Kids Browser](https://kids-browser.com/) | - | Windows | Safe Browser made for Children |
 | [Kingpin Browser](https://kingpinbrowser.com/) | Chromium | Windows, macOS | Full-featured browser with incognito mode |
 | [kristall](https://kristall.random-projects.net/) | Custom | Windows, macOS, Linux, BSD | Browser without support for css/js/wasm |
 | [Konform Browser](https://konform-browser.codeberg.page/) | Gecko | Linux | Taking privacy, security and freedom to the next level |
@@ -422,6 +424,7 @@ A curated collection of browsers named starting from S.
 | [Sleipnir Browser](https://www.fenrir-inc.com/jp/sleipnir/) | Blink (earlier Gecko) | Windows, macOS, Windows Phone | Tabbed browser with customization features. |
 | [SlimBrowser](https://www.slimbrowser.net/) | Trident | Windows | Fast browser with various features. |
 | [Slimjet Browser](https://www.slimjet.com/) | Chromium | Windows, macOS, Linux | Claims to be the fastest browser with automatic ad blocking. |
+| [Social Browser](https://social-browser.com/) | Chromium | Windows | Separate profiles, User Scripts, extensions, user-supplied proxy settings, local data controls in one place. |
 | [Sogou Explorer](https://ie.sogou.com/) | Webkit, Trident | Windows | Web browser offered by Sogou. |
 | [Sphere Browser](https://sphere.tenebris.cc/) | Chromium | Windows, macOS, Linux | Anti-detection browser for managing multiple identities. |
 | [Split Browser](https://github.com/niutech/splitbrowser) | WebKit, WebKitGTK, Edge WebView2 | macOS, Linux, Windows | Minimalistic browser with split screen view. |
@@ -501,6 +504,7 @@ A curated collection of browsers named starting from W.
 | [Waterfox Classic](https://classic.waterfox.net) | Gecko | Windows, macOS, Linux | Legacy web browser for older systems and those that require use of XPCOM and XUL extensions. **[Discontinued]** |
 | [Wave Browser](https://wavebrowser.co/) | Blink | Windows, macOS (soon) | Efficient, intuitive, and personal web browser. |
 | [Wavebox Browser](https://wavebox.io/) | Blink | Windows, macOS, Linux | Secure, private Chromium browser for productive working across various web apps. |
+| [WebAura](https://creedmotions.store/apps/webaura/) | - | Windows | The private media browser. |
 | [WebBuddy](https://bigbearlabs.com/webbuddy/) | WebKit | macOS | In-App Browser for Mac Apps. |
 | [Webian Shell](https://webian.org/) | Gecko | Windows, Linux | Browser-based operating system UI for web use. |
 | [WebNet Official](https://web-net.ml/download/) | Chromium | Windows, macOS | Fast, reliable Chromium Web Browser that doesn't track users. |
