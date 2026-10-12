@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `296`** 
+**Total Count: `297`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -271,6 +271,7 @@ A curated collection of browsers named starting from L.
 |--------------|--------|-------------------|-------------|
 | <a id="L"></a> [Ladybird](https://ladybird.org) | LibWeb, LibJS | Linux, macOS, SerenityOS | Web browser from SerenityOS |
 | [Lagrange](https://github.com/skyjake/lagrange) | Custom | Windows, macOS, Linux | Desktop GUI client for Geminispace |
+| [LastBrowser](https://lastbrowser.com) | Blink | Windows | Chromium-based Windows browser with a built-in AI system called Sidekick. |
 | [LeechCraft](https://leechcraft.org/) | WebKit, WebEngine | Windows, macOS, Linux, FreeBSD | Modular live environment including web browser ([Poshuku](https://leechcraft.org/plugins-poshuku)), IM client, media player, BitTorrent client, document viewer, RSS reader and many other modules. |
 | [LibreWolf](https://librewolf.net/) | Gecko | Windows, macOS, Linux | Custom version of Firefox |
 | [Light Browser](https://github.com/raphipod/LightBrowser-2020) | CefSharp | Windows | One-Tab-Browsing for low memory usage **[Archived]** |
