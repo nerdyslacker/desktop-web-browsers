@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `297`** 
+**Total Count: `301`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -80,7 +80,7 @@ A curated collection of the browsers named starting from B.
 | [BonBon Browser](https://github.com/BonBon-exchange/bonbon-web-browser) | Chromium | Windows, macOS, Linux | Lightweight and innovative |
 | [Bonsai](https://bonsaibrowser.com/) | Electron | macOS, Windows, Linux | Web-browser for research **[Archived]** |
 | [Borneo Browser](https://github.com/Malcer/Borneo) | QtWebEngine | Windows, macOS, Linux | Minimalist web browser **[Discontinued]** |
-| [Brave Browser](https://brave.com) | Blink, V8, (WebKit on iOS) | Windows, macOS, Linux | Fast, private and secure |
+| [Brave Browser](https://brave.com) / [Origin](https://brave.com/origin/) | Blink, V8, (WebKit on iOS) | Windows, macOS, Linux | Fast, private and secure |
 | [BriskBard](https://www.briskbard.com/index.php?lang=en) | Trident | Windows | Free web browser for windows |
 | [BrowserBox](https://github.com/BrowserBox/BrowserBox) | Chromium | Web | Browse the whole web from a web page. Remote browser isolation. |
 | [BrowserJet](https://browserjet.com/) | Chromium | Windows, macOS | Multiple sessions with built-in multiple IPs |
@@ -211,6 +211,7 @@ A curated collection of browsers named starting from H.
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="H"></a> [Hayami Browser](https://www.hayami.app/) | Electron | Windows, macOS, Linux | Tile-based mini browser/dashboard app |
+| [Hedgehog Browser](https://www.hedgehogbrowser.com/) | Chromiumm | Windows, Linux | Safe browser for children: blocks inappropriate content, TikTok, YouTube, and ads |
 | [Helium](https://slashlos.github.io/Helium/) | WebKit | macOS | Floating browser window |
 | [Helium Browser](https://helium.computer/) | Electron | Windows, macOS, Linux | Private, fast, and honest web browser |
 | [Helix](https://github.com/pulse-browser/experiment) | Gecko | Windows, Linux, macOS | Just another Gecko browser. **[Experimental]** |
@@ -240,7 +241,8 @@ A curated collection of browsers named starting from J.
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="J"></a> [jumanji](https://pwmt.org/projects/jumanji/) | WebKit | Linux, BSD | Highly customizable and functional |
+| <a id="J"></a> [Jade Browser](https://www.jadebrowser.com) | Chromium | Windows, Linux | Blocks ads, protects your privacy with built-in VPN, and saves up to 90% on data usage |
+| [jumanji](https://pwmt.org/projects/jumanji/) | WebKit | Linux, BSD | Highly customizable and functional |
 | [Jupiter Browser](https://github.com/RicardoCA/JupiterBrowser) | Electron | Windows | An alternative to Default Browsers. |
 
 ---
@@ -282,6 +284,7 @@ A curated collection of browsers named starting from L.
 | [LT Browser](https://www.lambdatest.com/lt-browser) | Chromium | Windows, macOS, Linux | For building and testing mobile view |
 | [Luakit](https://luakit.github.io/) | WebKit | Linux, BSD, Windows with WSL | Highly configurable browser framework |
 | [Lulumi-browser](https://github.com/LulumiProject/lulumi-browser) | Electron | Windows, macOS, Linux | Lightweight browser with Vue.js 2 and Electron |
+| [Lunar Browser](https://www.lunarbrowser.com) | Chromium | Windows, Linux | Designed for accessibility, great for Dyslexia and ADHD |
 | [Lunascape Browser](https://www.lunascape.org/browser/phoebe) | Trident, Gecko, WebKit | Windows | Supports three different web engines |
 | [Lynx](https://lynx.invisible-island.net/) | Custom | Linux, Unix-like, Windows, macOS | Text-based web browser |
 
