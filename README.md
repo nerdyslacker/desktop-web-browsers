@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `301`** 
+**Total Count: `302`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -419,6 +419,7 @@ A curated collection of browsers named starting from S.
 | [Santa Browser](https://www.santabrowser.com/) | Chromium | Windows, macOS | The Browser That Keeps Giving |
 | [SeaLion](https://github.com/wicknix/SeaLion) | Gecko | macOS | Web browser for Mac OS X and Linux |
 | [SeaMonkey Browser](https://www.seamonkey-project.org/) | Gecko, SpiderMonkey | Windows, macOS, Linux | Free web browser suite |
+| [Search](https://officecommun.com/search) | WebKit | macOS | A small, fast WebKit browser with chrome extensions support |
 | [SEOBrowse](https://seobrowse.com/) | Chromium | Windows, macOS | Browse search results for any location |
 | [Servo Tech Demo](https://servo.org/download/) | Servo | Windows, macOS, Linux | Browser based on Mozilla's Servo web rendering engine |
 | [Seznam.cz](https://www.seznam.cz/prohlizec) | Blink | Windows, macOS | Web browser by czech search engine |
