@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `303`** 
+**Total Count: `304`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -137,6 +137,7 @@ A curated collection of browsers named starting from D.
 | [Dashob](https://dashob.com/) | Electron | Windows, macOS, Linux | Create limitless boards with web pages |
 | [dBrowser](https://github.com/dBrowser/dbrowser) | Electron | Windows, macOS, Linux | Web browser for Web3 |
 | [Decentr Browser](https://decentr.net/) | WebKit, Blink | Windows, macOS, Linux | Web3 blockchain/metaverse browser |
+| [Den Browser](https://den.nekonata.dev/) | - | macOS | Web and terminal work, the Niri way |
 | [Dezor](https://www.dezor.net/) | Chromium | Windows, macOS, Linux | Browser including VPN & Adblocker |
 | [Dia](https://www.diabrowser.com/) | Chromium | Windows, macOS, Linux | AI won't exist as an app. Or a button. We believe it'll be an entirely new environment — built on top of a web browser. **[Coming Soon]** |
 | [Dillo Browser](https://dillo-browser.github.io/) | Proprietary | Linux, BSD, OS X, FreeDOS | Multi-platform graphical web browser |
