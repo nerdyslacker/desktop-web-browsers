@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `302`** 
+**Total Count: `303`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -443,6 +443,7 @@ A curated collection of browsers named starting from S.
 | [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Windows, macOS, Linux | Focuses on user security. |
 | [Stack Browser](https://stackbrowser.com/) | Chromium | Windows, macOS | Spatial browser for mindful online living. |
 | [Station](https://getstation.com/) | Blink | Windows, macOS, Linux | Open-source smart browser for web applications. |
+| [Stedding](https://stedding.dev/) | Chromium | macOS, Windows | Open-source Arc-style browser with Spaces, pinned tabs and folders in a sidebar. |
 | [Supermium](https://win32subsystem.live/supermium/) | Chromium | Windows (XP, 7, 8, 10, 11) | Chrome replacement with privacy enhancements. |
 | [Suprow](https://suprow.app/) | Blink | macOS, Windows, Linux | The browser that respects your workflow. |
 | [surf](https://surf.suckless.org/) | WebKitGTK | Unix-like | Minimalist browser controlled via keyboard shortcuts. |
