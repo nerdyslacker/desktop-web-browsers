@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `304`** 
+**Total Count: `305`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -300,6 +300,7 @@ A curated collection of browsers named starting from M.
 | <a id="M"></a> [Marble](https://github.com/NetworkNeighborhood/Marble) | Gecko | Windows, macOS, Linux | Marble aims to restore the Photon style & layout for various platforms. |
 | [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux | Browser with blockchain app support |
 | [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux | Fastest Firefox fork |
+| [Meridian](https://op.tngl.io/meridian/) | Servo | macOS | Web-browser built on GPUI |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | Blink, V8 | Windows, macOS, Linux | Cross-platform web browser by Microsoft |
 | [Midori Browser](https://astian.org/midori-browser) | Gecko | Linux, Windows, macOS | Fast and secure light web browser |
 | [MilkShake](https://milkshake.netlify.app/) | Electron | Windows, macOS, Linux | Simple web browser with only one tab |
