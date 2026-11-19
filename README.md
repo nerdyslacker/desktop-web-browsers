@@ -301,6 +301,7 @@ A curated collection of browsers named starting from M.
 | [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux | Browser with blockchain app support |
 | [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux | Fastest Firefox fork |
 | [Meridian](https://op.tngl.io/meridian/) | Servo | macOS | Web-browser built on GPUI |
+| [Meridian Browser](https://undermove.github.io/meridian-browser/) | Blink, V8 | macOS, Windows | Open-source Arc-style browser with spaces, a command bar and one-click import from Arc and Chrome |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | Blink, V8 | Windows, macOS, Linux | Cross-platform web browser by Microsoft |
 | [Midori Browser](https://astian.org/midori-browser) | Gecko | Linux, Windows, macOS | Fast and secure light web browser |
 | [MilkShake](https://milkshake.netlify.app/) | Electron | Windows, macOS, Linux | Simple web browser with only one tab |
