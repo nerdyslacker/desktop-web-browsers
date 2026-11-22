@@ -1,6 +1,6 @@
 # Desktop Web Browsers
 
-**Total Count: `305`** 
+**Total Count: `306`** 
 
 An extensive, curated, and almost full list of all Desktop Web Browsers. 
 
@@ -464,6 +464,7 @@ A curated collection of browsers named starting from T.
 |--------------|--------|-------------------|-------------|
 | <a id="T"></a> [Tabbit Browser](https://www.tabbit.ai/) | Blink | macOS, Windows | Tabs think. Sites wake. Your Web. |
 | [Taktak](https://taktak.com/) | Chromium | Windows, macOS, Linux | The only AI browser you need |
+| [Tarn](https://tarnbrowser.com/) | WebKit, Chromium | macOS, Windows, Linux | Open-source, keyboard-first browser with vertical tabs, separate profiles, and built-in ad and tracker blocking. |
 | [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Windows, macOS | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Terminal Browser](https://terminal-browser.com) | Chromium | macOS, Linux | A browser that runs directly inside your terminal |
 | [Tesla Browser](https://www.teslabrowser.com/en) | Blink | Windows | Quick, easy, and secure web browser. |
