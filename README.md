@@ -549,7 +549,7 @@ A curated collection of browsers named starting from Y.
 |--------------|--------|-------------------|-------------|
 | <a id="Y"></a> [Y8 Browser](https://www.y8.com/download-app) | Blink | Windows, macOS, Linux | Browser for playing all games, including Flash games. |
 | [Yaeb Browser](https://github.com/bengl/yaeb) | Electron | Windows, macOS, Linux | Minimalist Electron-based browser with API for webview manipulation. |
-| [Yalqen](https://github.com/YSamed/yalqen) | Electron | macOS | Open-source developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking. |
+| [Yalqen](https://github.com/YSamed/yalqen) | Electron | macOS, Windows (preview) | Open-source developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking. |
 | [Yandex Browser](https://browser.yandex.com/) | Blink | Windows, macOS, Linux | Freeware browser by Yandex, based on Chromium. |
 
 ---
